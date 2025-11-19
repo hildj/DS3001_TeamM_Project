@@ -1,0 +1,2136 @@
+﻿YEAR,HOSPITAL,Procedure/Condition,Risk Adjuested Mortality Rate,Risk Adjuested Mortality Rate,Hospital Ratings
+2023,Adventist Health and Rideout,AMI,7,7,As Expected
+2023,Adventist Health and Rideout,Acute Stroke,5.3,5.3,As Expected
+2023,Adventist Health and Rideout,Carotid Endarterectomy,3.1,3.1,As Expected
+2023,Adventist Health and Rideout,GI Hemorrhage,2.2,2.2,As Expected
+2023,Adventist Health and Rideout,Heart Failure,4,4,As Expected
+2023,Adventist Health and Rideout,Hip Fracture,0,0,As Expected
+2023,Adventist Health and Rideout,PCI,5.1,5.1,As Expected
+2023,Adventist Health and Rideout,Pneumonia,6.4,6.4,As Expected
+2023,Adventist Health Bakersfield,AMI,6.9,6.9,As Expected
+2023,Adventist Health Bakersfield,Acute Stroke,8,8,As Expected
+2023,Adventist Health Bakersfield,Carotid Endarterectomy,0,0,As Expected
+2023,Adventist Health Bakersfield,GI Hemorrhage,3.6,3.6,As Expected
+2023,Adventist Health Bakersfield,Hip Fracture,0.5,0.5,As Expected
+2023,Adventist Health Bakersfield,PCI,5,5,As Expected
+2023,Adventist Health Bakersfield,Pneumonia,6.3,6.3,As Expected
+2023,Adventist Health Bakersfield,Heart Failure,4.4,4.4,Worse
+2023,Adventist Health Clearlake,Acute Stroke,0,0,As Expected
+2023,Adventist Health Clearlake,GI Hemorrhage,0,0,As Expected
+2023,Adventist Health Clearlake,Heart Failure,5.5,5.5,As Expected
+2023,Adventist Health Clearlake,Hip Fracture,0,0,As Expected
+2023,Adventist Health Clearlake,Pneumonia,4.4,4.4,As Expected
+2023,Adventist Health Delano,Acute Stroke,0,0,As Expected
+2023,Adventist Health Delano,Heart Failure,2.4,2.4,As Expected
+2023,Adventist Health Delano,Pneumonia,9.1,9.1,As Expected
+2023,Adventist Health Glendale,AMI,3.8,3.8,As Expected
+2023,Adventist Health Glendale,Acute Stroke,6.9,6.9,As Expected
+2023,Adventist Health Glendale,Carotid Endarterectomy,0,0,As Expected
+2023,Adventist Health Glendale,GI Hemorrhage,1.4,1.4,As Expected
+2023,Adventist Health Glendale,Heart Failure,1.6,1.6,As Expected
+2023,Adventist Health Glendale,Hip Fracture,2.4,2.4,As Expected
+2023,Adventist Health Glendale,Pancreatic Resection,0,0,As Expected
+2023,Adventist Health Glendale,PCI,2.2,2.2,Better
+2023,Adventist Health Glendale,Pneumonia,4.9,4.9,Better
+2023,Adventist Health Hanford,AMI,5.9,5.9,As Expected
+2023,Adventist Health Hanford,Acute Stroke,6.7,6.7,As Expected
+2023,Adventist Health Hanford,Carotid Endarterectomy,0,0,As Expected
+2023,Adventist Health Hanford,GI Hemorrhage,2.8,2.8,As Expected
+2023,Adventist Health Hanford,Heart Failure,2.8,2.8,As Expected
+2023,Adventist Health Hanford,Hip Fracture,1.3,1.3,As Expected
+2023,Adventist Health Hanford,Pneumonia,7.6,7.6,As Expected
+2023,Adventist Health Howard Memorial,Acute Stroke,7.8,7.8,As Expected
+2023,Adventist Health Howard Memorial,GI Hemorrhage,10,10,As Expected
+2023,Adventist Health Howard Memorial,Heart Failure,2.4,2.4,As Expected
+2023,Adventist Health Howard Memorial,Hip Fracture,0,0,As Expected
+2023,Adventist Health Howard Memorial,Pneumonia,3.8,3.8,As Expected
+2023,Adventist Health Lodi Memorial,AMI,7.5,7.5,As Expected
+2023,Adventist Health Lodi Memorial,GI Hemorrhage,5,5,As Expected
+2023,Adventist Health Lodi Memorial,Hip Fracture,1.2,1.2,As Expected
+2023,Adventist Health Lodi Memorial,Pneumonia,4.3,4.3,As Expected
+2023,Adventist Health Lodi Memorial,Acute Stroke,3.5,3.5,Better
+2023,Adventist Health Lodi Memorial,Heart Failure,1.4,1.4,Better
+2023,Adventist Health Mendocino Coast,Acute Stroke,0,0,As Expected
+2023,Adventist Health Mendocino Coast,GI Hemorrhage,4.2,4.2,As Expected
+2023,Adventist Health Mendocino Coast,Heart Failure,0,0,As Expected
+2023,Adventist Health Mendocino Coast,Pneumonia,6.5,6.5,As Expected
+2023,Adventist Health Reedley,Acute Stroke,0,0,As Expected
+2023,Adventist Health Reedley,Heart Failure,0,0,As Expected
+2023,Adventist Health Reedley,Pneumonia,0,0,As Expected
+2023,Adventist Health Sierra Vista,Acute Stroke,8.1,8.1,As Expected
+2023,Adventist Health Sierra Vista,Carotid Endarterectomy,0,0,As Expected
+2023,Adventist Health Sierra Vista,GI Hemorrhage,3.2,3.2,As Expected
+2023,Adventist Health Sierra Vista,Heart Failure,2,2,As Expected
+2023,Adventist Health Sierra Vista,Hip Fracture,1.4,1.4,As Expected
+2023,Adventist Health Sierra Vista,Pancreatic Resection,0,0,As Expected
+2023,Adventist Health Sierra Vista,Pneumonia,6.5,6.5,As Expected
+2023,Adventist Health Simi Valley,AMI,4.8,4.8,As Expected
+2023,Adventist Health Simi Valley,Acute Stroke,5.9,5.9,As Expected
+2023,Adventist Health Simi Valley,GI Hemorrhage,2.9,2.9,As Expected
+2023,Adventist Health Simi Valley,Heart Failure,3.9,3.9,As Expected
+2023,Adventist Health Simi Valley,Hip Fracture,1,1,As Expected
+2023,Adventist Health Simi Valley,PCI,4.5,4.5,As Expected
+2023,Adventist Health Simi Valley,Pneumonia,3.8,3.8,Better
+2023,Adventist Health Sonora – Greenley,AMI,4.7,4.7,As Expected
+2023,Adventist Health Sonora – Greenley,Acute Stroke,11.2,11.2,As Expected
+2023,Adventist Health Sonora – Greenley,GI Hemorrhage,3.7,3.7,As Expected
+2023,Adventist Health Sonora – Greenley,Heart Failure,0.5,0.5,As Expected
+2023,Adventist Health Sonora – Greenley,Hip Fracture,3.3,3.3,As Expected
+2023,Adventist Health Sonora – Greenley,Pneumonia,2.8,2.8,Better
+2023,Adventist Health St. Helena,AMI,3.6,3.6,As Expected
+2023,Adventist Health St. Helena,Acute Stroke,7.9,7.9,As Expected
+2023,Adventist Health St. Helena,Carotid Endarterectomy,0,0,As Expected
+2023,Adventist Health St. Helena,GI Hemorrhage,4,4,As Expected
+2023,Adventist Health St. Helena,Heart Failure,2.7,2.7,As Expected
+2023,Adventist Health St. Helena,Hip Fracture,1.7,1.7,As Expected
+2023,Adventist Health St. Helena,PCI,4,4,As Expected
+2023,Adventist Health St. Helena,Pneumonia,6.4,6.4,As Expected
+2023,Adventist Health Tehachapi Valley,Acute Stroke,0,0,As Expected
+2023,Adventist Health Tehachapi Valley,GI Hemorrhage,2.3,2.3,As Expected
+2023,Adventist Health Tehachapi Valley,Heart Failure,1.8,1.8,As Expected
+2023,Adventist Health Tehachapi Valley,Hip Fracture,14.2,14.2,As Expected
+2023,Adventist Health Tehachapi Valley,Pneumonia,3.4,3.4,As Expected
+2023,Adventist Health Tulare,Acute Stroke,3.8,3.8,As Expected
+2023,Adventist Health Tulare,Heart Failure,3.5,3.5,As Expected
+2023,Adventist Health Tulare,Hip Fracture,7.8,7.8,As Expected
+2023,Adventist Health Tulare,Pneumonia,5.7,5.7,As Expected
+2023,Adventist Health Twin Cities,AMI,18.3,18.3,As Expected
+2023,Adventist Health Twin Cities,Acute Stroke,11,11,As Expected
+2023,Adventist Health Twin Cities,GI Hemorrhage,3.3,3.3,As Expected
+2023,Adventist Health Twin Cities,Heart Failure,2.5,2.5,As Expected
+2023,Adventist Health Twin Cities,Hip Fracture,2.2,2.2,As Expected
+2023,Adventist Health Twin Cities,Pneumonia,8.4,8.4,As Expected
+2023,Adventist Health Ukiah Valley,AMI,0,0,As Expected
+2023,Adventist Health Ukiah Valley,Acute Stroke,4.9,4.9,As Expected
+2023,Adventist Health Ukiah Valley,GI Hemorrhage,2.2,2.2,As Expected
+2023,Adventist Health Ukiah Valley,Heart Failure,2.4,2.4,As Expected
+2023,Adventist Health Ukiah Valley,Hip Fracture,3,3,As Expected
+2023,Adventist Health Ukiah Valley,Pneumonia,8.4,8.4,As Expected
+2023,Adventist Health White Memorial,AMI,6.8,6.8,As Expected
+2023,Adventist Health White Memorial,Acute Stroke,5.9,5.9,As Expected
+2023,Adventist Health White Memorial,Carotid Endarterectomy,7.9,7.9,As Expected
+2023,Adventist Health White Memorial,GI Hemorrhage,4.2,4.2,As Expected
+2023,Adventist Health White Memorial,Heart Failure,2.3,2.3,As Expected
+2023,Adventist Health White Memorial,Hip Fracture,0,0,As Expected
+2023,Adventist Health White Memorial,PCI,4.7,4.7,As Expected
+2023,Adventist Health White Memorial,Pneumonia,9.1,9.1,Worse
+2023,Adventist Health White Memorial Montebello,AMI,9,9,As Expected
+2023,Adventist Health White Memorial Montebello,Acute Stroke,9.3,9.3,As Expected
+2023,Adventist Health White Memorial Montebello,GI Hemorrhage,1.9,1.9,As Expected
+2023,Adventist Health White Memorial Montebello,Heart Failure,3.9,3.9,As Expected
+2023,Adventist Health White Memorial Montebello,Hip Fracture,7,7,As Expected
+2023,Adventist Health White Memorial Montebello,PCI,4.2,4.2,As Expected
+2023,Adventist Health White Memorial Montebello,Pneumonia,5.4,5.4,As Expected
+2023,AHMC Anaheim Regional Medical Center,AMI,3.5,3.5,As Expected
+2023,AHMC Anaheim Regional Medical Center,Acute Stroke,6.6,6.6,As Expected
+2023,AHMC Anaheim Regional Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,AHMC Anaheim Regional Medical Center,GI Hemorrhage,1.8,1.8,As Expected
+2023,AHMC Anaheim Regional Medical Center,Heart Failure,2.7,2.7,As Expected
+2023,AHMC Anaheim Regional Medical Center,Hip Fracture,0,0,As Expected
+2023,AHMC Anaheim Regional Medical Center,PCI,2.1,2.1,As Expected
+2023,AHMC Anaheim Regional Medical Center,Pneumonia,4.3,4.3,As Expected
+2023,AHMC Seton Medical Center,AMI,4.9,4.9,As Expected
+2023,AHMC Seton Medical Center,Acute Stroke,6,6,As Expected
+2023,AHMC Seton Medical Center,Carotid Endarterectomy,13.9,13.9,As Expected
+2023,AHMC Seton Medical Center,Heart Failure,2.6,2.6,As Expected
+2023,AHMC Seton Medical Center,Hip Fracture,0,0,As Expected
+2023,AHMC Seton Medical Center,PCI,4.9,4.9,As Expected
+2023,AHMC Seton Medical Center,Pneumonia,7.4,7.4,As Expected
+2023,AHMC Seton Medical Center,GI Hemorrhage,0,0,Better
+2023,Alameda Hospital,AMI,8.2,8.2,As Expected
+2023,Alameda Hospital,Acute Stroke,5.6,5.6,As Expected
+2023,Alameda Hospital,GI Hemorrhage,3.3,3.3,As Expected
+2023,Alameda Hospital,Heart Failure,3.4,3.4,As Expected
+2023,Alameda Hospital,Hip Fracture,0,0,As Expected
+2023,Alameda Hospital,Pneumonia,2.7,2.7,Better
+2023,Alhambra Hospital Medical Center,AMI,5.4,5.4,As Expected
+2023,Alhambra Hospital Medical Center,Acute Stroke,4.3,4.3,As Expected
+2023,Alhambra Hospital Medical Center,GI Hemorrhage,5.6,5.6,As Expected
+2023,Alhambra Hospital Medical Center,Heart Failure,3.8,3.8,As Expected
+2023,Alhambra Hospital Medical Center,Hip Fracture,0,0,As Expected
+2023,Alhambra Hospital Medical Center,Pneumonia,9.6,9.6,Worse
+2023,Alta Bates Summit Medical Center,Acute Stroke,9.9,9.9,As Expected
+2023,Alta Bates Summit Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Alta Bates Summit Medical Center,GI Hemorrhage,2.1,2.1,As Expected
+2023,Alta Bates Summit Medical Center,Heart Failure,2.1,2.1,As Expected
+2023,Alta Bates Summit Medical Center,Hip Fracture,1.9,1.9,As Expected
+2023,Alta Bates Summit Medical Center,PCI,2.7,2.7,As Expected
+2023,Alta Bates Summit Medical Center,Pancreatic Resection,12.3,12.3,As Expected
+2023,Alta Bates Summit Medical Center,AMI,3.6,3.6,Better
+2023,Alta Bates Summit Medical Center,Pneumonia,2.4,2.4,Better
+2023,Alta Bates Summit Medical Center – Alta Bates Campus,AMI,7.1,7.1,As Expected
+2023,Alta Bates Summit Medical Center – Alta Bates Campus,GI Hemorrhage,2.2,2.2,As Expected
+2023,Alta Bates Summit Medical Center – Alta Bates Campus,Heart Failure,2.1,2.1,As Expected
+2023,Alta Bates Summit Medical Center – Alta Bates Campus,Hip Fracture,0.9,0.9,As Expected
+2023,Alta Bates Summit Medical Center – Alta Bates Campus,Pneumonia,5.4,5.4,As Expected
+2023,Alta Bates Summit Medical Center – Alta Bates Campus,Acute Stroke,5.3,5.3,Better
+2023,Anaheim Global Medical Center,AMI,0,0,As Expected
+2023,Anaheim Global Medical Center,Acute Stroke,0,0,As Expected
+2023,Anaheim Global Medical Center,GI Hemorrhage,0,0,As Expected
+2023,Anaheim Global Medical Center,Heart Failure,0,0,As Expected
+2023,Anaheim Global Medical Center,Hip Fracture,0,0,As Expected
+2023,Anaheim Global Medical Center,Pneumonia,4.7,4.7,As Expected
+2023,Antelope Valley Medical Center,AMI,6.2,6.2,As Expected
+2023,Antelope Valley Medical Center,Acute Stroke,8.9,8.9,As Expected
+2023,Antelope Valley Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Antelope Valley Medical Center,Heart Failure,3.5,3.5,As Expected
+2023,Antelope Valley Medical Center,Hip Fracture,0.9,0.9,As Expected
+2023,Antelope Valley Medical Center,GI Hemorrhage,5.1,5.1,Worse
+2023,Antelope Valley Medical Center,PCI,10.9,10.9,Worse
+2023,Antelope Valley Medical Center,Pneumonia,10.4,10.4,Worse
+2023,Arrowhead Regional Medical Center,AMI,3.4,3.4,As Expected
+2023,Arrowhead Regional Medical Center,Acute Stroke,10.1,10.1,As Expected
+2023,Arrowhead Regional Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Arrowhead Regional Medical Center,GI Hemorrhage,3.3,3.3,As Expected
+2023,Arrowhead Regional Medical Center,Heart Failure,2.6,2.6,As Expected
+2023,Arrowhead Regional Medical Center,Hip Fracture,0,0,As Expected
+2023,Arrowhead Regional Medical Center,PCI,0,0,As Expected
+2023,Arrowhead Regional Medical Center,Pancreatic Resection,0,0,As Expected
+2023,Arrowhead Regional Medical Center,Pneumonia,8.1,8.1,As Expected
+2023,Bakersfield Heart Hospital,AMI,4.2,4.2,As Expected
+2023,Bakersfield Heart Hospital,Acute Stroke,7,7,As Expected
+2023,Bakersfield Heart Hospital,GI Hemorrhage,0,0,As Expected
+2023,Bakersfield Heart Hospital,Heart Failure,3.2,3.2,As Expected
+2023,Bakersfield Heart Hospital,PCI,1.9,1.9,As Expected
+2023,Bakersfield Heart Hospital,Pneumonia,15.1,15.1,Worse
+2023,Bakersfield Memorial Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,Bakersfield Memorial Hospital,Hip Fracture,4.6,4.6,As Expected
+2023,Bakersfield Memorial Hospital,PCI,5.2,5.2,As Expected
+2023,Bakersfield Memorial Hospital,AMI,8.6,8.6,Worse
+2023,Bakersfield Memorial Hospital,Acute Stroke,11.6,11.6,Worse
+2023,Bakersfield Memorial Hospital,GI Hemorrhage,5,5,Worse
+2023,Bakersfield Memorial Hospital,Heart Failure,4.6,4.6,Worse
+2023,Bakersfield Memorial Hospital,Pneumonia,9.6,9.6,Worse
+2023,Banner Lassen Medical Center,Acute Stroke,0,0,As Expected
+2023,Banner Lassen Medical Center,GI Hemorrhage,0,0,As Expected
+2023,Banner Lassen Medical Center,Heart Failure,4.7,4.7,As Expected
+2023,Banner Lassen Medical Center,Hip Fracture,0,0,As Expected
+2023,Banner Lassen Medical Center,Pneumonia,11.5,11.5,As Expected
+2023,Barstow Community Hospital,AMI,0,0,As Expected
+2023,Barstow Community Hospital,Acute Stroke,0,0,As Expected
+2023,Barstow Community Hospital,GI Hemorrhage,3.1,3.1,As Expected
+2023,Barstow Community Hospital,Heart Failure,0,0,As Expected
+2023,Barstow Community Hospital,Hip Fracture,0,0,As Expected
+2023,Barstow Community Hospital,Pneumonia,4.5,4.5,As Expected
+2023,Barton Memorial Hospital,Acute Stroke,12.6,12.6,As Expected
+2023,Barton Memorial Hospital,GI Hemorrhage,0,0,As Expected
+2023,Barton Memorial Hospital,Heart Failure,0,0,As Expected
+2023,Barton Memorial Hospital,Hip Fracture,0,0,As Expected
+2023,Barton Memorial Hospital,Pneumonia,13,13,As Expected
+2023,Bear Valley Community Hospital,Heart Failure,0,0,As Expected
+2023,Bear Valley Community Hospital,Pneumonia,0,0,As Expected
+2023,California Hospital Medical Center – Los Angeles,AMI,1.1,1.1,As Expected
+2023,California Hospital Medical Center – Los Angeles,Acute Stroke,6.4,6.4,As Expected
+2023,California Hospital Medical Center – Los Angeles,Carotid Endarterectomy,0,0,As Expected
+2023,California Hospital Medical Center – Los Angeles,GI Hemorrhage,0.9,0.9,As Expected
+2023,California Hospital Medical Center – Los Angeles,Heart Failure,1.7,1.7,As Expected
+2023,California Hospital Medical Center – Los Angeles,Hip Fracture,4.4,4.4,As Expected
+2023,California Hospital Medical Center – Los Angeles,PCI,2.2,2.2,As Expected
+2023,California Hospital Medical Center – Los Angeles,Pneumonia,8.8,8.8,As Expected
+2023,California Pacific Medical Center – Davies Campus Hospital,Acute Stroke,9,9,As Expected
+2023,California Pacific Medical Center – Davies Campus Hospital,GI Hemorrhage,7,7,As Expected
+2023,California Pacific Medical Center – Davies Campus Hospital,Heart Failure,1.6,1.6,As Expected
+2023,California Pacific Medical Center – Davies Campus Hospital,Hip Fracture,0,0,As Expected
+2023,California Pacific Medical Center – Davies Campus Hospital,Pneumonia,4.2,4.2,As Expected
+2023,California Pacific Medical Center – Mission Bernal Campus,AMI,5.3,5.3,As Expected
+2023,California Pacific Medical Center – Mission Bernal Campus,Acute Stroke,8.2,8.2,As Expected
+2023,California Pacific Medical Center – Mission Bernal Campus,GI Hemorrhage,1.5,1.5,As Expected
+2023,California Pacific Medical Center – Mission Bernal Campus,Heart Failure,2.4,2.4,As Expected
+2023,California Pacific Medical Center – Mission Bernal Campus,Hip Fracture,1.6,1.6,As Expected
+2023,California Pacific Medical Center – Mission Bernal Campus,Pneumonia,6.7,6.7,As Expected
+2023,California Pacific Medical Center – Van Ness Campus,AMI,4,4,As Expected
+2023,California Pacific Medical Center – Van Ness Campus,Acute Stroke,9.2,9.2,As Expected
+2023,California Pacific Medical Center – Van Ness Campus,Carotid Endarterectomy,0,0,As Expected
+2023,California Pacific Medical Center – Van Ness Campus,GI Hemorrhage,2.7,2.7,As Expected
+2023,California Pacific Medical Center – Van Ness Campus,Heart Failure,2.9,2.9,As Expected
+2023,California Pacific Medical Center – Van Ness Campus,Hip Fracture,0,0,As Expected
+2023,California Pacific Medical Center – Van Ness Campus,PCI,3.4,3.4,As Expected
+2023,California Pacific Medical Center – Van Ness Campus,Pancreatic Resection,5.3,5.3,As Expected
+2023,California Pacific Medical Center – Van Ness Campus,Pneumonia,6.9,6.9,As Expected
+2023,Casa Colina Hospital,GI Hemorrhage,0,0,As Expected
+2023,Casa Colina Hospital,Heart Failure,0,0,As Expected
+2023,Casa Colina Hospital,Hip Fracture,0,0,As Expected
+2023,Casa Colina Hospital,Pneumonia,6.9,6.9,As Expected
+2023,Catalina Island Medical Center,Heart Failure,0,0,As Expected
+2023,Cedars – Sinai Marina Hospital,AMI,0,0,As Expected
+2023,Cedars – Sinai Marina Hospital,Acute Stroke,5.3,5.3,As Expected
+2023,Cedars – Sinai Marina Hospital,GI Hemorrhage,0,0,As Expected
+2023,Cedars – Sinai Marina Hospital,Heart Failure,2.5,2.5,As Expected
+2023,Cedars – Sinai Marina Hospital,Hip Fracture,3.8,3.8,As Expected
+2023,Cedars – Sinai Marina Hospital,Pneumonia,6.2,6.2,As Expected
+2023,Cedars – Sinai Medical Center,AMI,5.1,5.1,As Expected
+2023,Cedars – Sinai Medical Center,Acute Stroke,8.9,8.9,As Expected
+2023,Cedars – Sinai Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Cedars – Sinai Medical Center,GI Hemorrhage,2.9,2.9,As Expected
+2023,Cedars – Sinai Medical Center,Heart Failure,2.4,2.4,As Expected
+2023,Cedars – Sinai Medical Center,Hip Fracture,1.5,1.5,As Expected
+2023,Cedars – Sinai Medical Center,PCI,3.7,3.7,As Expected
+2023,Cedars – Sinai Medical Center,Pancreatic Resection,1.5,1.5,As Expected
+2023,Cedars – Sinai Medical Center,Pneumonia,7.3,7.3,As Expected
+2023,Centinela Hospital Medical Center,AMI,4.1,4.1,As Expected
+2023,Centinela Hospital Medical Center,Acute Stroke,6.9,6.9,As Expected
+2023,Centinela Hospital Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Centinela Hospital Medical Center,GI Hemorrhage,2.3,2.3,As Expected
+2023,Centinela Hospital Medical Center,Hip Fracture,0,0,As Expected
+2023,Centinela Hospital Medical Center,PCI,2.3,2.3,As Expected
+2023,Centinela Hospital Medical Center,Pneumonia,5.6,5.6,As Expected
+2023,Centinela Hospital Medical Center,Heart Failure,1.1,1.1,Better
+2023,Chapman Global Medical Center,AMI,0,0,As Expected
+2023,Chapman Global Medical Center,Acute Stroke,0,0,As Expected
+2023,Chapman Global Medical Center,GI Hemorrhage,0,0,As Expected
+2023,Chapman Global Medical Center,Heart Failure,0,0,As Expected
+2023,Chapman Global Medical Center,Hip Fracture,0,0,As Expected
+2023,Chapman Global Medical Center,Pneumonia,10.1,10.1,As Expected
+2023,Chinese Hospital,AMI,9.9,9.9,As Expected
+2023,Chinese Hospital,Acute Stroke,0,0,As Expected
+2023,Chinese Hospital,GI Hemorrhage,0,0,As Expected
+2023,Chinese Hospital,Heart Failure,3.1,3.1,As Expected
+2023,Chinese Hospital,Hip Fracture,0,0,As Expected
+2023,Chinese Hospital,Pneumonia,8.5,8.5,As Expected
+2023,Chino Valley Medical Center,AMI,3.8,3.8,As Expected
+2023,Chino Valley Medical Center,Acute Stroke,0,0,As Expected
+2023,Chino Valley Medical Center,GI Hemorrhage,0,0,As Expected
+2023,Chino Valley Medical Center,Heart Failure,0.5,0.5,As Expected
+2023,Chino Valley Medical Center,Hip Fracture,6.5,6.5,As Expected
+2023,Chino Valley Medical Center,PCI,0,0,As Expected
+2023,Chino Valley Medical Center,Pneumonia,4.2,4.2,As Expected
+2023,City of Hope Helford Clinical Research Hospital,AMI,6.6,6.6,As Expected
+2023,City of Hope Helford Clinical Research Hospital,GI Hemorrhage,0,0,As Expected
+2023,City of Hope Helford Clinical Research Hospital,Heart Failure,0,0,As Expected
+2023,City of Hope Helford Clinical Research Hospital,Pancreatic Resection,0,0,As Expected
+2023,City of Hope Helford Clinical Research Hospital,Pneumonia,7.9,7.9,As Expected
+2023,City of Hope Helford Clinical Research Hospital,Acute Stroke,29.3,29.3,Worse
+2023,Clovis Community Medical Center,AMI,6.7,6.7,As Expected
+2023,Clovis Community Medical Center,Acute Stroke,5.7,5.7,As Expected
+2023,Clovis Community Medical Center,Hip Fracture,2.1,2.1,As Expected
+2023,Clovis Community Medical Center,PCI,2.6,2.6,As Expected
+2023,Clovis Community Medical Center,Pancreatic Resection,6.5,6.5,As Expected
+2023,Clovis Community Medical Center,Pneumonia,7.5,7.5,As Expected
+2023,Clovis Community Medical Center,GI Hemorrhage,4.9,4.9,Worse
+2023,Clovis Community Medical Center,Heart Failure,4.7,4.7,Worse
+2023,Coalinga Regional Medical Center,Acute Stroke,26.3,26.3,As Expected
+2023,Coalinga Regional Medical Center,Heart Failure,23.9,23.9,As Expected
+2023,Coalinga Regional Medical Center,Pneumonia,6.4,6.4,As Expected
+2023,Coast Plaza Hospital,AMI,0,0,As Expected
+2023,Coast Plaza Hospital,Acute Stroke,9.5,9.5,As Expected
+2023,Coast Plaza Hospital,GI Hemorrhage,4.2,4.2,As Expected
+2023,Coast Plaza Hospital,Hip Fracture,0,0,As Expected
+2023,Coast Plaza Hospital,Heart Failure,8.3,8.3,Worse
+2023,Coast Plaza Hospital,Pneumonia,11.2,11.2,Worse
+2023,College Medical Center,AMI,0,0,As Expected
+2023,College Medical Center,Acute Stroke,0,0,As Expected
+2023,College Medical Center,GI Hemorrhage,3.3,3.3,As Expected
+2023,College Medical Center,Heart Failure,4.7,4.7,As Expected
+2023,College Medical Center,Hip Fracture,4.7,4.7,As Expected
+2023,College Medical Center,Pneumonia,11.5,11.5,As Expected
+2023,Colorado River Medical Center,Heart Failure,0,0,As Expected
+2023,Colorado River Medical Center,Pneumonia,0,0,As Expected
+2023,Colusa Medical Center,Heart Failure,0,0,As Expected
+2023,Colusa Medical Center,Pneumonia,3.4,3.4,As Expected
+2023,Colusa Medical Center,GI Hemorrhage,55.6,55.6,Worse
+2023,Community Hospital of Huntington Park,AMI,5.6,5.6,As Expected
+2023,Community Hospital of Huntington Park,Acute Stroke,0,0,As Expected
+2023,Community Hospital of Huntington Park,GI Hemorrhage,0,0,As Expected
+2023,Community Hospital of Huntington Park,Heart Failure,1.5,1.5,As Expected
+2023,Community Hospital of Huntington Park,Hip Fracture,0,0,As Expected
+2023,Community Hospital of Huntington Park,Pneumonia,9.1,9.1,As Expected
+2023,Community Hospital of San Bernardino,AMI,0,0,As Expected
+2023,Community Hospital of San Bernardino,Acute Stroke,4.2,4.2,As Expected
+2023,Community Hospital of San Bernardino,GI Hemorrhage,2.1,2.1,As Expected
+2023,Community Hospital of San Bernardino,Heart Failure,1.4,1.4,As Expected
+2023,Community Hospital of San Bernardino,Hip Fracture,0,0,As Expected
+2023,Community Hospital of San Bernardino,Pneumonia,3,3,As Expected
+2023,Community Hospital of the Monterey Peninsula,AMI,6.5,6.5,As Expected
+2023,Community Hospital of the Monterey Peninsula,Acute Stroke,8.8,8.8,As Expected
+2023,Community Hospital of the Monterey Peninsula,Carotid Endarterectomy,0,0,As Expected
+2023,Community Hospital of the Monterey Peninsula,GI Hemorrhage,1.7,1.7,As Expected
+2023,Community Hospital of the Monterey Peninsula,Heart Failure,3.5,3.5,As Expected
+2023,Community Hospital of the Monterey Peninsula,Hip Fracture,3.3,3.3,As Expected
+2023,Community Hospital of the Monterey Peninsula,PCI,3.5,3.5,As Expected
+2023,Community Hospital of the Monterey Peninsula,Pancreatic Resection,0,0,As Expected
+2023,Community Hospital of the Monterey Peninsula,Pneumonia,6,6,As Expected
+2023,Community Memorial Hospital – Ojai,Heart Failure,0,0,As Expected
+2023,Community Memorial Hospital – Ojai,Pneumonia,15.4,15.4,As Expected
+2023,Community Memorial Hospital – San Buenaventura,AMI,3.6,3.6,As Expected
+2023,Community Memorial Hospital – San Buenaventura,Acute Stroke,7.4,7.4,As Expected
+2023,Community Memorial Hospital – San Buenaventura,Carotid Endarterectomy,0,0,As Expected
+2023,Community Memorial Hospital – San Buenaventura,GI Hemorrhage,2.9,2.9,As Expected
+2023,Community Memorial Hospital – San Buenaventura,Heart Failure,3.1,3.1,As Expected
+2023,Community Memorial Hospital – San Buenaventura,Hip Fracture,0,0,As Expected
+2023,Community Memorial Hospital – San Buenaventura,PCI,3.3,3.3,As Expected
+2023,Community Memorial Hospital – San Buenaventura,Pneumonia,7.6,7.6,As Expected
+2023,Community Regional Medical Center – Fresno,AMI,5.9,5.9,As Expected
+2023,Community Regional Medical Center – Fresno,Carotid Endarterectomy,2.1,2.1,As Expected
+2023,Community Regional Medical Center – Fresno,GI Hemorrhage,2.6,2.6,As Expected
+2023,Community Regional Medical Center – Fresno,Hip Fracture,1.7,1.7,As Expected
+2023,Community Regional Medical Center – Fresno,PCI,3.3,3.3,As Expected
+2023,Community Regional Medical Center – Fresno,Pancreatic Resection,0,0,As Expected
+2023,Community Regional Medical Center – Fresno,Acute Stroke,9.5,9.5,Worse
+2023,Community Regional Medical Center – Fresno,Heart Failure,4.3,4.3,Worse
+2023,Community Regional Medical Center – Fresno,Pneumonia,8.6,8.6,Worse
+2023,Contra Costa Regional Medical Center,AMI,0,0,As Expected
+2023,Contra Costa Regional Medical Center,Acute Stroke,4.7,4.7,As Expected
+2023,Contra Costa Regional Medical Center,GI Hemorrhage,5.2,5.2,As Expected
+2023,Contra Costa Regional Medical Center,Heart Failure,3.3,3.3,As Expected
+2023,Contra Costa Regional Medical Center,Hip Fracture,0,0,As Expected
+2023,Contra Costa Regional Medical Center,Pneumonia,10.5,10.5,As Expected
+2023,Corona Regional Medical Center – Main,AMI,5,5,As Expected
+2023,Corona Regional Medical Center – Main,Acute Stroke,9.5,9.5,As Expected
+2023,Corona Regional Medical Center – Main,GI Hemorrhage,2.6,2.6,As Expected
+2023,Corona Regional Medical Center – Main,Heart Failure,2.3,2.3,As Expected
+2023,Corona Regional Medical Center – Main,Hip Fracture,2.5,2.5,As Expected
+2023,Corona Regional Medical Center – Main,PCI,1.7,1.7,As Expected
+2023,Corona Regional Medical Center – Main,Pneumonia,6.3,6.3,As Expected
+2023,Dameron Hospital,Acute Stroke,0,0,As Expected
+2023,Dameron Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,Dameron Hospital,GI Hemorrhage,2.3,2.3,As Expected
+2023,Dameron Hospital,Heart Failure,4.6,4.6,As Expected
+2023,Dameron Hospital,Hip Fracture,0,0,As Expected
+2023,Dameron Hospital,Pneumonia,4.9,4.9,As Expected
+2023,Dameron Hospital,AMI,8.2,8.2,Worse
+2023,Dameron Hospital,PCI,9.4,9.4,Worse
+2023,Desert Regional Medical Center,AMI,6.2,6.2,As Expected
+2023,Desert Regional Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Desert Regional Medical Center,Heart Failure,3.5,3.5,As Expected
+2023,Desert Regional Medical Center,PCI,3.1,3.1,As Expected
+2023,Desert Regional Medical Center,Acute Stroke,10.1,10.1,Worse
+2023,Desert Regional Medical Center,GI Hemorrhage,4.4,4.4,Worse
+2023,Desert Regional Medical Center,Hip Fracture,4.1,4.1,Worse
+2023,Desert Regional Medical Center,Pneumonia,8.6,8.6,Worse
+2023,Desert Valley Hospital,AMI,3.5,3.5,As Expected
+2023,Desert Valley Hospital,Acute Stroke,0,0,As Expected
+2023,Desert Valley Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,Desert Valley Hospital,GI Hemorrhage,2.7,2.7,As Expected
+2023,Desert Valley Hospital,Hip Fracture,0,0,As Expected
+2023,Desert Valley Hospital,PCI,3.9,3.9,As Expected
+2023,Desert Valley Hospital,Heart Failure,1,1,Better
+2023,Desert Valley Hospital,Pneumonia,4.2,4.2,Better
+2023,Doctors Hospital of Manteca,AMI,0,0,As Expected
+2023,Doctors Hospital of Manteca,Acute Stroke,8.9,8.9,As Expected
+2023,Doctors Hospital of Manteca,GI Hemorrhage,5.3,5.3,As Expected
+2023,Doctors Hospital of Manteca,Heart Failure,1.7,1.7,As Expected
+2023,Doctors Hospital of Manteca,Hip Fracture,0,0,As Expected
+2023,Doctors Hospital of Manteca,Pneumonia,9.6,9.6,As Expected
+2023,Doctors Hospital of Riverside,AMI,0,0,As Expected
+2023,Doctors Hospital of Riverside,Acute Stroke,5.1,5.1,As Expected
+2023,Doctors Hospital of Riverside,Carotid Endarterectomy,0,0,As Expected
+2023,Doctors Hospital of Riverside,GI Hemorrhage,2.7,2.7,As Expected
+2023,Doctors Hospital of Riverside,Heart Failure,1.8,1.8,As Expected
+2023,Doctors Hospital of Riverside,Hip Fracture,3.9,3.9,As Expected
+2023,Doctors Hospital of Riverside,Pneumonia,4.8,4.8,As Expected
+2023,Doctors Medical Center,AMI,6.6,6.6,As Expected
+2023,Doctors Medical Center,Acute Stroke,7.6,7.6,As Expected
+2023,Doctors Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Doctors Medical Center,GI Hemorrhage,3.8,3.8,As Expected
+2023,Doctors Medical Center,Heart Failure,3.7,3.7,As Expected
+2023,Doctors Medical Center,Hip Fracture,2.5,2.5,As Expected
+2023,Doctors Medical Center,PCI,4.6,4.6,As Expected
+2023,Doctors Medical Center,Pneumonia,7.7,7.7,As Expected
+2023,Dominican Hospital,AMI,5.4,5.4,As Expected
+2023,Dominican Hospital,Acute Stroke,8.1,8.1,As Expected
+2023,Dominican Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,Dominican Hospital,GI Hemorrhage,2.2,2.2,As Expected
+2023,Dominican Hospital,Heart Failure,1.5,1.5,As Expected
+2023,Dominican Hospital,Hip Fracture,1.8,1.8,As Expected
+2023,Dominican Hospital,PCI,5.3,5.3,As Expected
+2023,Dominican Hospital,Pneumonia,6.7,6.7,As Expected
+2023,East Los Angeles Doctors Hospital,AMI,8.6,8.6,As Expected
+2023,East Los Angeles Doctors Hospital,Acute Stroke,0,0,As Expected
+2023,East Los Angeles Doctors Hospital,GI Hemorrhage,5.9,5.9,As Expected
+2023,East Los Angeles Doctors Hospital,Heart Failure,1.7,1.7,As Expected
+2023,East Los Angeles Doctors Hospital,Hip Fracture,0,0,As Expected
+2023,East Los Angeles Doctors Hospital,Pneumonia,7.6,7.6,As Expected
+2023,Eastern Plumas Hospital – Portola Campus,Pneumonia,0,0,As Expected
+2023,Eden Medical Center,AMI,3.5,3.5,As Expected
+2023,Eden Medical Center,Acute Stroke,9.9,9.9,As Expected
+2023,Eden Medical Center,Carotid Endarterectomy,9.7,9.7,As Expected
+2023,Eden Medical Center,Heart Failure,3.3,3.3,As Expected
+2023,Eden Medical Center,Hip Fracture,0.6,0.6,As Expected
+2023,Eden Medical Center,Pneumonia,5.9,5.9,As Expected
+2023,Eden Medical Center,GI Hemorrhage,5.2,5.2,Worse
+2023,Eisenhower Medical Center,AMI,5.2,5.2,As Expected
+2023,Eisenhower Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Eisenhower Medical Center,GI Hemorrhage,2,2,As Expected
+2023,Eisenhower Medical Center,Hip Fracture,0.4,0.4,As Expected
+2023,Eisenhower Medical Center,PCI,3,3,As Expected
+2023,Eisenhower Medical Center,Acute Stroke,5.1,5.1,Better
+2023,Eisenhower Medical Center,Heart Failure,1.7,1.7,Better
+2023,Eisenhower Medical Center,Pneumonia,4.8,4.8,Better
+2023,El Camino Health,AMI,5.8,5.8,As Expected
+2023,El Camino Health,Carotid Endarterectomy,0,0,As Expected
+2023,El Camino Health,GI Hemorrhage,1.5,1.5,As Expected
+2023,El Camino Health,Heart Failure,3.4,3.4,As Expected
+2023,El Camino Health,Hip Fracture,0.9,0.9,As Expected
+2023,El Camino Health,PCI,0.9,0.9,As Expected
+2023,El Camino Health,Pancreatic Resection,0,0,As Expected
+2023,El Camino Health,Pneumonia,6.2,6.2,As Expected
+2023,El Camino Health,Acute Stroke,10.8,10.8,Worse
+2023,El Centro Regional Medical Center,AMI,2.9,2.9,As Expected
+2023,El Centro Regional Medical Center,Acute Stroke,6.9,6.9,As Expected
+2023,El Centro Regional Medical Center,GI Hemorrhage,6,6,As Expected
+2023,El Centro Regional Medical Center,Heart Failure,4.3,4.3,As Expected
+2023,El Centro Regional Medical Center,Pneumonia,11.3,11.3,Worse
+2023,Emanate Health Foothill Presbyterian Hospital,AMI,8.1,8.1,As Expected
+2023,Emanate Health Foothill Presbyterian Hospital,Acute Stroke,11.3,11.3,As Expected
+2023,Emanate Health Foothill Presbyterian Hospital,GI Hemorrhage,4.4,4.4,As Expected
+2023,Emanate Health Foothill Presbyterian Hospital,Heart Failure,2.1,2.1,As Expected
+2023,Emanate Health Foothill Presbyterian Hospital,Pancreatic Resection,0,0,As Expected
+2023,Emanate Health Foothill Presbyterian Hospital,Pneumonia,8,8,As Expected
+2023,Emanate Health Foothill Presbyterian Hospital,Hip Fracture,7.6,7.6,Worse
+2023,Emanate Health Inter – Community Hospital,AMI,6.3,6.3,As Expected
+2023,Emanate Health Inter – Community Hospital,Acute Stroke,7.7,7.7,As Expected
+2023,Emanate Health Inter – Community Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,Emanate Health Inter – Community Hospital,GI Hemorrhage,4.7,4.7,As Expected
+2023,Emanate Health Inter – Community Hospital,Heart Failure,2.5,2.5,As Expected
+2023,Emanate Health Inter – Community Hospital,PCI,3.8,3.8,As Expected
+2023,Emanate Health Inter – Community Hospital,Pneumonia,6.2,6.2,As Expected
+2023,Emanate Health Inter – Community Hospital,Hip Fracture,6.5,6.5,Worse
+2023,Emanate Health Queen of the Valley Hospital,AMI,0,0,As Expected
+2023,Emanate Health Queen of the Valley Hospital,Acute Stroke,6.1,6.1,As Expected
+2023,Emanate Health Queen of the Valley Hospital,Heart Failure,4.1,4.1,As Expected
+2023,Emanate Health Queen of the Valley Hospital,Hip Fracture,0,0,As Expected
+2023,Emanate Health Queen of the Valley Hospital,GI Hemorrhage,5.8,5.8,Worse
+2023,Emanate Health Queen of the Valley Hospital,Pneumonia,9.4,9.4,Worse
+2023,Emanuel Medical Center,AMI,4.2,4.2,As Expected
+2023,Emanuel Medical Center,Acute Stroke,6.8,6.8,As Expected
+2023,Emanuel Medical Center,GI Hemorrhage,2.8,2.8,As Expected
+2023,Emanuel Medical Center,Heart Failure,2.1,2.1,As Expected
+2023,Emanuel Medical Center,Hip Fracture,0.9,0.9,As Expected
+2023,Emanuel Medical Center,PCI,1.9,1.9,As Expected
+2023,Emanuel Medical Center,Pneumonia,4.9,4.9,As Expected
+2023,Encino Hospital Medical Center,AMI,0,0,As Expected
+2023,Encino Hospital Medical Center,Acute Stroke,11.4,11.4,As Expected
+2023,Encino Hospital Medical Center,GI Hemorrhage,0,0,As Expected
+2023,Encino Hospital Medical Center,Heart Failure,3.1,3.1,As Expected
+2023,Encino Hospital Medical Center,Hip Fracture,0,0,As Expected
+2023,Encino Hospital Medical Center,Pneumonia,5.5,5.5,As Expected
+2023,Enloe Health,AMI,5.5,5.5,As Expected
+2023,Enloe Health,Acute Stroke,10.1,10.1,As Expected
+2023,Enloe Health,Carotid Endarterectomy,0,0,As Expected
+2023,Enloe Health,GI Hemorrhage,2.9,2.9,As Expected
+2023,Enloe Health,Heart Failure,3.1,3.1,As Expected
+2023,Enloe Health,Hip Fracture,0.5,0.5,As Expected
+2023,Enloe Health,PCI,4.6,4.6,As Expected
+2023,Enloe Health,Pancreatic Resection,0,0,As Expected
+2023,Enloe Health,Pneumonia,7.2,7.2,As Expected
+2023,Fairchild Medical Center,AMI,0,0,As Expected
+2023,Fairchild Medical Center,Acute Stroke,18.8,18.8,As Expected
+2023,Fairchild Medical Center,GI Hemorrhage,0,0,As Expected
+2023,Fairchild Medical Center,Heart Failure,8,8,As Expected
+2023,Fairchild Medical Center,Hip Fracture,6,6,As Expected
+2023,Fairchild Medical Center,Pneumonia,14.8,14.8,As Expected
+2023,Foothill Regional Medical Center,AMI,0,0,As Expected
+2023,Foothill Regional Medical Center,Acute Stroke,0,0,As Expected
+2023,Foothill Regional Medical Center,GI Hemorrhage,2.8,2.8,As Expected
+2023,Foothill Regional Medical Center,Heart Failure,1.8,1.8,As Expected
+2023,Foothill Regional Medical Center,Hip Fracture,0,0,As Expected
+2023,Foothill Regional Medical Center,Pneumonia,3.5,3.5,Better
+2023,French Hospital Medical Center,AMI,3.5,3.5,As Expected
+2023,French Hospital Medical Center,Acute Stroke,3.2,3.2,As Expected
+2023,French Hospital Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,French Hospital Medical Center,GI Hemorrhage,0.8,0.8,As Expected
+2023,French Hospital Medical Center,Heart Failure,3.5,3.5,As Expected
+2023,French Hospital Medical Center,Hip Fracture,2.4,2.4,As Expected
+2023,French Hospital Medical Center,PCI,2.9,2.9,As Expected
+2023,French Hospital Medical Center,Pneumonia,6.2,6.2,As Expected
+2023,Garden Grove Hospital and Medical Center,AMI,6,6,As Expected
+2023,Garden Grove Hospital and Medical Center,Acute Stroke,7.7,7.7,As Expected
+2023,Garden Grove Hospital and Medical Center,GI Hemorrhage,0,0,As Expected
+2023,Garden Grove Hospital and Medical Center,Heart Failure,0,0,As Expected
+2023,Garden Grove Hospital and Medical Center,Hip Fracture,0,0,As Expected
+2023,Garden Grove Hospital and Medical Center,Pneumonia,4.7,4.7,As Expected
+2023,Garfield Medical Center,Acute Stroke,8.8,8.8,As Expected
+2023,Garfield Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Garfield Medical Center,Hip Fracture,5.9,5.9,As Expected
+2023,Garfield Medical Center,PCI,6.6,6.6,As Expected
+2023,Garfield Medical Center,Pancreatic Resection,8.3,8.3,As Expected
+2023,Garfield Medical Center,AMI,9.4,9.4,Worse
+2023,Garfield Medical Center,GI Hemorrhage,6.7,6.7,Worse
+2023,Garfield Medical Center,Heart Failure,5.7,5.7,Worse
+2023,Garfield Medical Center,Pneumonia,15,15,Worse
+2023,George L. Mee Memorial Hospital,Heart Failure,12.9,12.9,As Expected
+2023,George L. Mee Memorial Hospital,Pneumonia,19.9,19.9,As Expected
+2023,Glendale Memorial Hospital and Health Center,AMI,4.5,4.5,As Expected
+2023,Glendale Memorial Hospital and Health Center,Acute Stroke,6.8,6.8,As Expected
+2023,Glendale Memorial Hospital and Health Center,Carotid Endarterectomy,0,0,As Expected
+2023,Glendale Memorial Hospital and Health Center,Heart Failure,2.1,2.1,As Expected
+2023,Glendale Memorial Hospital and Health Center,Hip Fracture,1.6,1.6,As Expected
+2023,Glendale Memorial Hospital and Health Center,PCI,3.5,3.5,As Expected
+2023,Glendale Memorial Hospital and Health Center,Pneumonia,6.5,6.5,As Expected
+2023,Glendale Memorial Hospital and Health Center,GI Hemorrhage,5.2,5.2,Worse
+2023,Glenn Medical Center,Heart Failure,0,0,As Expected
+2023,Glenn Medical Center,Pneumonia,7.6,7.6,As Expected
+2023,Goleta Valley Cottage Hospital,Heart Failure,0,0,As Expected
+2023,Goleta Valley Cottage Hospital,Hip Fracture,1.9,1.9,As Expected
+2023,Goleta Valley Cottage Hospital,Pneumonia,0,0,As Expected
+2023,Good Samaritan Hospital – Bakersfield,Heart Failure,7.3,7.3,As Expected
+2023,Good Samaritan Hospital – Bakersfield,Pneumonia,7.3,7.3,As Expected
+2023,Good Samaritan Hospital – San Jose,AMI,4.2,4.2,As Expected
+2023,Good Samaritan Hospital – San Jose,Carotid Endarterectomy,0,0,As Expected
+2023,Good Samaritan Hospital – San Jose,GI Hemorrhage,1.7,1.7,As Expected
+2023,Good Samaritan Hospital – San Jose,Hip Fracture,0.9,0.9,As Expected
+2023,Good Samaritan Hospital – San Jose,PCI,3,3,As Expected
+2023,Good Samaritan Hospital – San Jose,Pneumonia,4.9,4.9,As Expected
+2023,Good Samaritan Hospital – San Jose,Acute Stroke,4.6,4.6,Better
+2023,Good Samaritan Hospital – San Jose,Heart Failure,1.1,1.1,Better
+2023,Greater El Monte Community Hospital,AMI,5.5,5.5,As Expected
+2023,Greater El Monte Community Hospital,Acute Stroke,10,10,As Expected
+2023,Greater El Monte Community Hospital,GI Hemorrhage,5.1,5.1,As Expected
+2023,Greater El Monte Community Hospital,Heart Failure,6.5,6.5,As Expected
+2023,Greater El Monte Community Hospital,Pneumonia,15.1,15.1,Worse
+2023,Grossmont Hospital,AMI,5.2,5.2,As Expected
+2023,Grossmont Hospital,Acute Stroke,9.8,9.8,As Expected
+2023,Grossmont Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,Grossmont Hospital,Heart Failure,2.3,2.3,As Expected
+2023,Grossmont Hospital,Hip Fracture,2.2,2.2,As Expected
+2023,Grossmont Hospital,PCI,3.6,3.6,As Expected
+2023,Grossmont Hospital,Pneumonia,4.4,4.4,As Expected
+2023,Grossmont Hospital,GI Hemorrhage,4.5,4.5,Worse
+2023,Hazel Hawkins Memorial Hospital,AMI,0,0,As Expected
+2023,Hazel Hawkins Memorial Hospital,Acute Stroke,14.1,14.1,As Expected
+2023,Hazel Hawkins Memorial Hospital,GI Hemorrhage,5.2,5.2,As Expected
+2023,Hazel Hawkins Memorial Hospital,Heart Failure,0,0,As Expected
+2023,Hazel Hawkins Memorial Hospital,Hip Fracture,0,0,As Expected
+2023,Hazel Hawkins Memorial Hospital,Pneumonia,7.9,7.9,As Expected
+2023,Healdsburg Hospital,Acute Stroke,0,0,As Expected
+2023,Healdsburg Hospital,GI Hemorrhage,18,18,As Expected
+2023,Healdsburg Hospital,Heart Failure,9.2,9.2,As Expected
+2023,Healdsburg Hospital,Hip Fracture,15.5,15.5,As Expected
+2023,Healdsburg Hospital,Pneumonia,11.3,11.3,As Expected
+2023,Hemet Global Medical Center,AMI,5.6,5.6,As Expected
+2023,Hemet Global Medical Center,Acute Stroke,4.4,4.4,As Expected
+2023,Hemet Global Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Hemet Global Medical Center,GI Hemorrhage,4,4,As Expected
+2023,Hemet Global Medical Center,Heart Failure,2.5,2.5,As Expected
+2023,Hemet Global Medical Center,Hip Fracture,1.2,1.2,As Expected
+2023,Hemet Global Medical Center,Pneumonia,5.2,5.2,As Expected
+2023,Henry Mayo Newhall Hospital,Acute Stroke,7.6,7.6,As Expected
+2023,Henry Mayo Newhall Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,Henry Mayo Newhall Hospital,GI Hemorrhage,3.6,3.6,As Expected
+2023,Henry Mayo Newhall Hospital,Heart Failure,4.3,4.3,As Expected
+2023,Henry Mayo Newhall Hospital,Hip Fracture,1.8,1.8,As Expected
+2023,Henry Mayo Newhall Hospital,PCI,5,5,As Expected
+2023,Henry Mayo Newhall Hospital,Pneumonia,8.4,8.4,As Expected
+2023,Henry Mayo Newhall Hospital,AMI,10.5,10.5,Worse
+2023,Hi-Desert Medical Center,AMI,0,0,As Expected
+2023,Hi-Desert Medical Center,Acute Stroke,7.2,7.2,As Expected
+2023,Hi-Desert Medical Center,GI Hemorrhage,8,8,As Expected
+2023,Hi-Desert Medical Center,Heart Failure,1.3,1.3,As Expected
+2023,Hi-Desert Medical Center,Hip Fracture,6.1,6.1,As Expected
+2023,Hi-Desert Medical Center,Pneumonia,9.4,9.4,As Expected
+2023,Highland Hospital,AMI,1.9,1.9,As Expected
+2023,Highland Hospital,Acute Stroke,10.7,10.7,As Expected
+2023,Highland Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,Highland Hospital,GI Hemorrhage,1.8,1.8,As Expected
+2023,Highland Hospital,Heart Failure,1.2,1.2,As Expected
+2023,Highland Hospital,Hip Fracture,2.2,2.2,As Expected
+2023,Highland Hospital,PCI,3.7,3.7,As Expected
+2023,Highland Hospital,Pancreatic Resection,0,0,As Expected
+2023,Highland Hospital,Pneumonia,5.3,5.3,As Expected
+2023,Hoag Memorial Hospital Presbyterian,AMI,4.8,4.8,As Expected
+2023,Hoag Memorial Hospital Presbyterian,Carotid Endarterectomy,0,0,As Expected
+2023,Hoag Memorial Hospital Presbyterian,GI Hemorrhage,1.9,1.9,As Expected
+2023,Hoag Memorial Hospital Presbyterian,Heart Failure,1.9,1.9,As Expected
+2023,Hoag Memorial Hospital Presbyterian,Hip Fracture,1.8,1.8,As Expected
+2023,Hoag Memorial Hospital Presbyterian,PCI,4.6,4.6,As Expected
+2023,Hoag Memorial Hospital Presbyterian,Pancreatic Resection,0,0,As Expected
+2023,Hoag Memorial Hospital Presbyterian,Pneumonia,4.9,4.9,As Expected
+2023,Hoag Memorial Hospital Presbyterian,Acute Stroke,5.6,5.6,Better
+2023,Hoag Orthopedic Institute,Hip Fracture,0,0,As Expected
+2023,Hollywood Presbyterian Medical Center,AMI,4.1,4.1,As Expected
+2023,Hollywood Presbyterian Medical Center,Acute Stroke,7.1,7.1,As Expected
+2023,Hollywood Presbyterian Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Hollywood Presbyterian Medical Center,GI Hemorrhage,3.1,3.1,As Expected
+2023,Hollywood Presbyterian Medical Center,Heart Failure,2.7,2.7,As Expected
+2023,Hollywood Presbyterian Medical Center,Hip Fracture,4.3,4.3,As Expected
+2023,Hollywood Presbyterian Medical Center,PCI,4.3,4.3,As Expected
+2023,Hollywood Presbyterian Medical Center,Pneumonia,8.4,8.4,Worse
+2023,Huntington Beach Hospital,AMI,2.8,2.8,As Expected
+2023,Huntington Beach Hospital,Acute Stroke,0,0,As Expected
+2023,Huntington Beach Hospital,GI Hemorrhage,2.2,2.2,As Expected
+2023,Huntington Beach Hospital,Heart Failure,0.9,0.9,As Expected
+2023,Huntington Beach Hospital,Hip Fracture,0,0,As Expected
+2023,Huntington Beach Hospital,Pneumonia,6.4,6.4,As Expected
+2023,Huntington Hospital,Acute Stroke,7.8,7.8,As Expected
+2023,Huntington Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,Huntington Hospital,GI Hemorrhage,2.7,2.7,As Expected
+2023,Huntington Hospital,Hip Fracture,2.6,2.6,As Expected
+2023,Huntington Hospital,PCI,1.6,1.6,As Expected
+2023,Huntington Hospital,Pancreatic Resection,2.8,2.8,As Expected
+2023,Huntington Hospital,Pneumonia,5.3,5.3,As Expected
+2023,Huntington Hospital,AMI,2.8,2.8,Better
+2023,Huntington Hospital,Heart Failure,1.6,1.6,Better
+2023,Jerold Phelps Community Hospital,Pneumonia,93.2,93.2,As Expected
+2023,John C Fremont Healthcare District,AMI,15.3,15.3,As Expected
+2023,John C Fremont Healthcare District,Heart Failure,25.2,25.2,As Expected
+2023,John C Fremont Healthcare District,Pneumonia,10.5,10.5,As Expected
+2023,John F. Kennedy Memorial Hospital,AMI,7.8,7.8,As Expected
+2023,John F. Kennedy Memorial Hospital,Acute Stroke,5,5,As Expected
+2023,John F. Kennedy Memorial Hospital,GI Hemorrhage,2.2,2.2,As Expected
+2023,John F. Kennedy Memorial Hospital,Heart Failure,3.2,3.2,As Expected
+2023,John F. Kennedy Memorial Hospital,Hip Fracture,1.7,1.7,As Expected
+2023,John F. Kennedy Memorial Hospital,PCI,7,7,As Expected
+2023,John F. Kennedy Memorial Hospital,Pneumonia,7.7,7.7,As Expected
+2023,John Muir Medical Center – Concord Medical Center,AMI,5.3,5.3,As Expected
+2023,John Muir Medical Center – Concord Medical Center,Acute Stroke,9.7,9.7,As Expected
+2023,John Muir Medical Center – Concord Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,John Muir Medical Center – Concord Medical Center,GI Hemorrhage,3,3,As Expected
+2023,John Muir Medical Center – Concord Medical Center,Heart Failure,3.2,3.2,As Expected
+2023,John Muir Medical Center – Concord Medical Center,Hip Fracture,0,0,As Expected
+2023,John Muir Medical Center – Concord Medical Center,PCI,5.3,5.3,As Expected
+2023,John Muir Medical Center – Concord Medical Center,Pneumonia,7.1,7.1,As Expected
+2023,John Muir Medical Center – Walnut Creek Medical Center,AMI,6.1,6.1,As Expected
+2023,John Muir Medical Center – Walnut Creek Medical Center,Carotid Endarterectomy,4.5,4.5,As Expected
+2023,John Muir Medical Center – Walnut Creek Medical Center,GI Hemorrhage,3,3,As Expected
+2023,John Muir Medical Center – Walnut Creek Medical Center,Heart Failure,2.7,2.7,As Expected
+2023,John Muir Medical Center – Walnut Creek Medical Center,Hip Fracture,1.1,1.1,As Expected
+2023,John Muir Medical Center – Walnut Creek Medical Center,PCI,7.7,7.7,As Expected
+2023,John Muir Medical Center – Walnut Creek Medical Center,Pancreatic Resection,6.9,6.9,As Expected
+2023,John Muir Medical Center – Walnut Creek Medical Center,Pneumonia,7,7,As Expected
+2023,John Muir Medical Center – Walnut Creek Medical Center,Acute Stroke,10.1,10.1,Worse
+2023,Kaiser Foundation Hospital – Antioch,AMI,2.6,2.6,As Expected
+2023,Kaiser Foundation Hospital – Antioch,Acute Stroke,8.7,8.7,As Expected
+2023,Kaiser Foundation Hospital – Antioch,GI Hemorrhage,2.8,2.8,As Expected
+2023,Kaiser Foundation Hospital – Antioch,Heart Failure,2.6,2.6,As Expected
+2023,Kaiser Foundation Hospital – Antioch,Hip Fracture,1,1,As Expected
+2023,Kaiser Foundation Hospital – Antioch,Pneumonia,7.2,7.2,As Expected
+2023,Kaiser Foundation Hospital – Baldwin Park,AMI,7.3,7.3,As Expected
+2023,Kaiser Foundation Hospital – Baldwin Park,Acute Stroke,7,7,As Expected
+2023,Kaiser Foundation Hospital – Baldwin Park,Carotid Endarterectomy,0,0,As Expected
+2023,Kaiser Foundation Hospital – Baldwin Park,GI Hemorrhage,3,3,As Expected
+2023,Kaiser Foundation Hospital – Baldwin Park,Hip Fracture,0.6,0.6,As Expected
+2023,Kaiser Foundation Hospital – Baldwin Park,PCI,0,0,As Expected
+2023,Kaiser Foundation Hospital – Baldwin Park,Heart Failure,4.6,4.6,Worse
+2023,Kaiser Foundation Hospital – Baldwin Park,Pneumonia,9.1,9.1,Worse
+2023,Kaiser Foundation Hospital – Downey,AMI,3.8,3.8,As Expected
+2023,Kaiser Foundation Hospital – Downey,Carotid Endarterectomy,0,0,As Expected
+2023,Kaiser Foundation Hospital – Downey,GI Hemorrhage,2.2,2.2,As Expected
+2023,Kaiser Foundation Hospital – Downey,Heart Failure,2,2,As Expected
+2023,Kaiser Foundation Hospital – Downey,Hip Fracture,2.3,2.3,As Expected
+2023,Kaiser Foundation Hospital – Downey,Pancreatic Resection,5.9,5.9,As Expected
+2023,Kaiser Foundation Hospital – Downey,Pneumonia,7.3,7.3,As Expected
+2023,Kaiser Foundation Hospital – Downey,Acute Stroke,3.2,3.2,Better
+2023,Kaiser Foundation Hospital – Fontana,AMI,6.6,6.6,As Expected
+2023,Kaiser Foundation Hospital – Fontana,Acute Stroke,8,8,As Expected
+2023,Kaiser Foundation Hospital – Fontana,Carotid Endarterectomy,0,0,As Expected
+2023,Kaiser Foundation Hospital – Fontana,GI Hemorrhage,4,4,As Expected
+2023,Kaiser Foundation Hospital – Fontana,Hip Fracture,0.4,0.4,As Expected
+2023,Kaiser Foundation Hospital – Fontana,PCI,4.2,4.2,As Expected
+2023,Kaiser Foundation Hospital – Fontana,Pancreatic Resection,0,0,As Expected
+2023,Kaiser Foundation Hospital – Fontana,Heart Failure,4.6,4.6,Worse
+2023,Kaiser Foundation Hospital – Fontana,Pneumonia,10.4,10.4,Worse
+2023,Kaiser Foundation Hospital – Fremont,AMI,11.6,11.6,As Expected
+2023,Kaiser Foundation Hospital – Fremont,Acute Stroke,9.3,9.3,As Expected
+2023,Kaiser Foundation Hospital – Fremont,GI Hemorrhage,2.1,2.1,As Expected
+2023,Kaiser Foundation Hospital – Fremont,Heart Failure,2.9,2.9,As Expected
+2023,Kaiser Foundation Hospital – Fremont,Hip Fracture,0,0,As Expected
+2023,Kaiser Foundation Hospital – Fremont,PCI,4.5,4.5,As Expected
+2023,Kaiser Foundation Hospital – Fremont,Pneumonia,6,6,As Expected
+2023,Kaiser Foundation Hospital – Fresno,AMI,5.4,5.4,As Expected
+2023,Kaiser Foundation Hospital – Fresno,Acute Stroke,11.4,11.4,As Expected
+2023,Kaiser Foundation Hospital – Fresno,Carotid Endarterectomy,0,0,As Expected
+2023,Kaiser Foundation Hospital – Fresno,GI Hemorrhage,4.3,4.3,As Expected
+2023,Kaiser Foundation Hospital – Fresno,Heart Failure,4.5,4.5,As Expected
+2023,Kaiser Foundation Hospital – Fresno,Hip Fracture,0.7,0.7,As Expected
+2023,Kaiser Foundation Hospital – Fresno,PCI,0,0,As Expected
+2023,Kaiser Foundation Hospital – Fresno,Pneumonia,5.8,5.8,As Expected
+2023,Kaiser Foundation Hospital – Los Angeles,AMI,4.7,4.7,As Expected
+2023,Kaiser Foundation Hospital – Los Angeles,Acute Stroke,9,9,As Expected
+2023,Kaiser Foundation Hospital – Los Angeles,Carotid Endarterectomy,0,0,As Expected
+2023,Kaiser Foundation Hospital – Los Angeles,GI Hemorrhage,3.4,3.4,As Expected
+2023,Kaiser Foundation Hospital – Los Angeles,Heart Failure,3.5,3.5,As Expected
+2023,Kaiser Foundation Hospital – Los Angeles,Hip Fracture,2.8,2.8,As Expected
+2023,Kaiser Foundation Hospital – Los Angeles,PCI,4.6,4.6,As Expected
+2023,Kaiser Foundation Hospital – Los Angeles,Pancreatic Resection,0,0,As Expected
+2023,Kaiser Foundation Hospital – Los Angeles,Pneumonia,7,7,As Expected
+2023,Kaiser Foundation Hospital – Manteca,AMI,4.5,4.5,As Expected
+2023,Kaiser Foundation Hospital – Manteca,Acute Stroke,9.4,9.4,As Expected
+2023,Kaiser Foundation Hospital – Manteca,Carotid Endarterectomy,0,0,As Expected
+2023,Kaiser Foundation Hospital – Manteca,GI Hemorrhage,1.5,1.5,As Expected
+2023,Kaiser Foundation Hospital – Manteca,Heart Failure,3.4,3.4,As Expected
+2023,Kaiser Foundation Hospital – Manteca,Hip Fracture,1.8,1.8,As Expected
+2023,Kaiser Foundation Hospital – Manteca,PCI,1.7,1.7,As Expected
+2023,Kaiser Foundation Hospital – Manteca,Pneumonia,6.5,6.5,As Expected
+2023,Kaiser Foundation Hospital – Moreno Valley,AMI,8.3,8.3,As Expected
+2023,Kaiser Foundation Hospital – Moreno Valley,Acute Stroke,5.1,5.1,As Expected
+2023,Kaiser Foundation Hospital – Moreno Valley,GI Hemorrhage,4.4,4.4,As Expected
+2023,Kaiser Foundation Hospital – Moreno Valley,Heart Failure,3.2,3.2,As Expected
+2023,Kaiser Foundation Hospital – Moreno Valley,Hip Fracture,0,0,As Expected
+2023,Kaiser Foundation Hospital – Moreno Valley,PCI,0,0,As Expected
+2023,Kaiser Foundation Hospital – Moreno Valley,Pneumonia,7.9,7.9,As Expected
+2023,Kaiser Foundation Hospital – Oakland Medical Center,AMI,4,4,As Expected
+2023,Kaiser Foundation Hospital – Oakland Medical Center,Acute Stroke,9.8,9.8,As Expected
+2023,Kaiser Foundation Hospital – Oakland Medical Center,GI Hemorrhage,2,2,As Expected
+2023,Kaiser Foundation Hospital – Oakland Medical Center,Heart Failure,3.7,3.7,As Expected
+2023,Kaiser Foundation Hospital – Oakland Medical Center,Hip Fracture,1.4,1.4,As Expected
+2023,Kaiser Foundation Hospital – Oakland Medical Center,PCI,3.8,3.8,As Expected
+2023,Kaiser Foundation Hospital – Oakland Medical Center,Pancreatic Resection,1,1,As Expected
+2023,Kaiser Foundation Hospital – Oakland Medical Center,Pneumonia,7.5,7.5,As Expected
+2023,Kaiser Foundation Hospital – Orange County – Anaheim,AMI,5.9,5.9,As Expected
+2023,Kaiser Foundation Hospital – Orange County – Anaheim,Carotid Endarterectomy,0,0,As Expected
+2023,Kaiser Foundation Hospital – Orange County – Anaheim,GI Hemorrhage,2.3,2.3,As Expected
+2023,Kaiser Foundation Hospital – Orange County – Anaheim,Heart Failure,2.6,2.6,As Expected
+2023,Kaiser Foundation Hospital – Orange County – Anaheim,Hip Fracture,1.7,1.7,As Expected
+2023,Kaiser Foundation Hospital – Orange County – Anaheim,PCI,4.9,4.9,As Expected
+2023,Kaiser Foundation Hospital – Orange County – Anaheim,Pancreatic Resection,4.3,4.3,As Expected
+2023,Kaiser Foundation Hospital – Orange County – Anaheim,Pneumonia,7.7,7.7,As Expected
+2023,Kaiser Foundation Hospital – Orange County – Anaheim,Acute Stroke,4.7,4.7,Better
+2023,Kaiser Foundation Hospital – Panorama City,AMI,2.1,2.1,As Expected
+2023,Kaiser Foundation Hospital – Panorama City,Carotid Endarterectomy,0,0,As Expected
+2023,Kaiser Foundation Hospital – Panorama City,GI Hemorrhage,2.2,2.2,As Expected
+2023,Kaiser Foundation Hospital – Panorama City,Heart Failure,3.4,3.4,As Expected
+2023,Kaiser Foundation Hospital – Panorama City,Hip Fracture,1,1,As Expected
+2023,Kaiser Foundation Hospital – Panorama City,Acute Stroke,3.7,3.7,Better
+2023,Kaiser Foundation Hospital – Panorama City,Pneumonia,3.6,3.6,Better
+2023,Kaiser Foundation Hospital – Redwood City,AMI,5.5,5.5,As Expected
+2023,Kaiser Foundation Hospital – Redwood City,Carotid Endarterectomy,9.8,9.8,As Expected
+2023,Kaiser Foundation Hospital – Redwood City,GI Hemorrhage,6.2,6.2,As Expected
+2023,Kaiser Foundation Hospital – Redwood City,Heart Failure,4.3,4.3,As Expected
+2023,Kaiser Foundation Hospital – Redwood City,Hip Fracture,0,0,As Expected
+2023,Kaiser Foundation Hospital – Redwood City,PCI,5.6,5.6,As Expected
+2023,Kaiser Foundation Hospital – Redwood City,Acute Stroke,10.7,10.7,Worse
+2023,Kaiser Foundation Hospital – Redwood City,Pneumonia,10.8,10.8,Worse
+2023,Kaiser Foundation Hospital – Riverside,AMI,2.9,2.9,As Expected
+2023,Kaiser Foundation Hospital – Riverside,Acute Stroke,6.7,6.7,As Expected
+2023,Kaiser Foundation Hospital – Riverside,Carotid Endarterectomy,0,0,As Expected
+2023,Kaiser Foundation Hospital – Riverside,GI Hemorrhage,3.2,3.2,As Expected
+2023,Kaiser Foundation Hospital – Riverside,Heart Failure,4.7,4.7,As Expected
+2023,Kaiser Foundation Hospital – Riverside,Hip Fracture,3.2,3.2,As Expected
+2023,Kaiser Foundation Hospital – Riverside,PCI,0,0,As Expected
+2023,Kaiser Foundation Hospital – Riverside,Pancreatic Resection,0,0,As Expected
+2023,Kaiser Foundation Hospital – Riverside,Pneumonia,7.6,7.6,As Expected
+2023,Kaiser Foundation Hospital – Roseville,AMI,6.1,6.1,As Expected
+2023,Kaiser Foundation Hospital – Roseville,Acute Stroke,7.6,7.6,As Expected
+2023,Kaiser Foundation Hospital – Roseville,Carotid Endarterectomy,0,0,As Expected
+2023,Kaiser Foundation Hospital – Roseville,GI Hemorrhage,1.4,1.4,As Expected
+2023,Kaiser Foundation Hospital – Roseville,Hip Fracture,2.9,2.9,As Expected
+2023,Kaiser Foundation Hospital – Roseville,PCI,4.2,4.2,As Expected
+2023,Kaiser Foundation Hospital – Roseville,Pneumonia,7,7,As Expected
+2023,Kaiser Foundation Hospital – Roseville,Heart Failure,4.2,4.2,Worse
+2023,Kaiser Foundation Hospital – Sacramento,AMI,2.8,2.8,As Expected
+2023,Kaiser Foundation Hospital – Sacramento,Acute Stroke,9.4,9.4,As Expected
+2023,Kaiser Foundation Hospital – Sacramento,Carotid Endarterectomy,2.4,2.4,As Expected
+2023,Kaiser Foundation Hospital – Sacramento,GI Hemorrhage,3.3,3.3,As Expected
+2023,Kaiser Foundation Hospital – Sacramento,Heart Failure,3,3,As Expected
+2023,Kaiser Foundation Hospital – Sacramento,Hip Fracture,2.3,2.3,As Expected
+2023,Kaiser Foundation Hospital – Sacramento,PCI,0,0,As Expected
+2023,Kaiser Foundation Hospital – Sacramento,Pancreatic Resection,4.3,4.3,As Expected
+2023,Kaiser Foundation Hospital – Sacramento,Pneumonia,5.9,5.9,As Expected
+2023,Kaiser Foundation Hospital – San Diego – Zion,AMI,5.4,5.4,As Expected
+2023,Kaiser Foundation Hospital – San Diego – Zion,Acute Stroke,7.1,7.1,As Expected
+2023,Kaiser Foundation Hospital – San Diego – Zion,Carotid Endarterectomy,0,0,As Expected
+2023,Kaiser Foundation Hospital – San Diego – Zion,GI Hemorrhage,2.3,2.3,As Expected
+2023,Kaiser Foundation Hospital – San Diego – Zion,Heart Failure,2.9,2.9,As Expected
+2023,Kaiser Foundation Hospital – San Diego – Zion,Hip Fracture,2.4,2.4,As Expected
+2023,Kaiser Foundation Hospital – San Diego – Zion,Pancreatic Resection,0,0,As Expected
+2023,Kaiser Foundation Hospital – San Diego – Zion,Pneumonia,5,5,As Expected
+2023,Kaiser Foundation Hospital – San Francisco,AMI,4.6,4.6,As Expected
+2023,Kaiser Foundation Hospital – San Francisco,Acute Stroke,9.5,9.5,As Expected
+2023,Kaiser Foundation Hospital – San Francisco,Carotid Endarterectomy,0,0,As Expected
+2023,Kaiser Foundation Hospital – San Francisco,GI Hemorrhage,1.9,1.9,As Expected
+2023,Kaiser Foundation Hospital – San Francisco,Hip Fracture,0.9,0.9,As Expected
+2023,Kaiser Foundation Hospital – San Francisco,PCI,4.7,4.7,As Expected
+2023,Kaiser Foundation Hospital – San Francisco,Pancreatic Resection,0,0,As Expected
+2023,Kaiser Foundation Hospital – San Francisco,Heart Failure,5,5,Worse
+2023,Kaiser Foundation Hospital – San Francisco,Pneumonia,10.7,10.7,Worse
+2023,Kaiser Foundation Hospital – San Jose,AMI,6.5,6.5,As Expected
+2023,Kaiser Foundation Hospital – San Jose,Acute Stroke,9.6,9.6,As Expected
+2023,Kaiser Foundation Hospital – San Jose,GI Hemorrhage,3,3,As Expected
+2023,Kaiser Foundation Hospital – San Jose,Heart Failure,3.3,3.3,As Expected
+2023,Kaiser Foundation Hospital – San Jose,Hip Fracture,0.7,0.7,As Expected
+2023,Kaiser Foundation Hospital – San Jose,PCI,4.1,4.1,As Expected
+2023,Kaiser Foundation Hospital – San Jose,Pancreatic Resection,0,0,As Expected
+2023,Kaiser Foundation Hospital – San Jose,Pneumonia,4.6,4.6,As Expected
+2023,Kaiser Foundation Hospital – San Leandro,AMI,4.2,4.2,As Expected
+2023,Kaiser Foundation Hospital – San Leandro,Acute Stroke,9.7,9.7,As Expected
+2023,Kaiser Foundation Hospital – San Leandro,GI Hemorrhage,2,2,As Expected
+2023,Kaiser Foundation Hospital – San Leandro,Heart Failure,3.3,3.3,As Expected
+2023,Kaiser Foundation Hospital – San Leandro,Hip Fracture,1.2,1.2,As Expected
+2023,Kaiser Foundation Hospital – San Leandro,Pneumonia,5,5,As Expected
+2023,Kaiser Foundation Hospital – San Marcos,AMI,0,0,As Expected
+2023,Kaiser Foundation Hospital – San Marcos,Acute Stroke,10.3,10.3,As Expected
+2023,Kaiser Foundation Hospital – San Marcos,GI Hemorrhage,2.9,2.9,As Expected
+2023,Kaiser Foundation Hospital – San Marcos,Heart Failure,1.6,1.6,As Expected
+2023,Kaiser Foundation Hospital – San Marcos,Pneumonia,5.1,5.1,As Expected
+2023,Kaiser Foundation Hospital – San Rafael,AMI,1.2,1.2,As Expected
+2023,Kaiser Foundation Hospital – San Rafael,Acute Stroke,5.1,5.1,As Expected
+2023,Kaiser Foundation Hospital – San Rafael,GI Hemorrhage,0,0,As Expected
+2023,Kaiser Foundation Hospital – San Rafael,Heart Failure,1.5,1.5,As Expected
+2023,Kaiser Foundation Hospital – San Rafael,Hip Fracture,1.3,1.3,As Expected
+2023,Kaiser Foundation Hospital – San Rafael,PCI,5.8,5.8,As Expected
+2023,Kaiser Foundation Hospital – San Rafael,Pneumonia,4.3,4.3,As Expected
+2023,Kaiser Foundation Hospital – Santa Clara,AMI,6.4,6.4,As Expected
+2023,Kaiser Foundation Hospital – Santa Clara,Acute Stroke,11.1,11.1,As Expected
+2023,Kaiser Foundation Hospital – Santa Clara,Carotid Endarterectomy,5.2,5.2,As Expected
+2023,Kaiser Foundation Hospital – Santa Clara,GI Hemorrhage,3,3,As Expected
+2023,Kaiser Foundation Hospital – Santa Clara,Hip Fracture,1.9,1.9,As Expected
+2023,Kaiser Foundation Hospital – Santa Clara,PCI,4.6,4.6,As Expected
+2023,Kaiser Foundation Hospital – Santa Clara,Pneumonia,4.7,4.7,As Expected
+2023,Kaiser Foundation Hospital – Santa Clara,Heart Failure,3.9,3.9,Worse
+2023,Kaiser Foundation Hospital – Santa Rosa,AMI,3.9,3.9,As Expected
+2023,Kaiser Foundation Hospital – Santa Rosa,Acute Stroke,9.9,9.9,As Expected
+2023,Kaiser Foundation Hospital – Santa Rosa,Carotid Endarterectomy,0,0,As Expected
+2023,Kaiser Foundation Hospital – Santa Rosa,GI Hemorrhage,2,2,As Expected
+2023,Kaiser Foundation Hospital – Santa Rosa,Heart Failure,2.5,2.5,As Expected
+2023,Kaiser Foundation Hospital – Santa Rosa,Hip Fracture,0.7,0.7,As Expected
+2023,Kaiser Foundation Hospital – Santa Rosa,Pneumonia,7.5,7.5,As Expected
+2023,Kaiser Foundation Hospital – South Bay,AMI,3.8,3.8,As Expected
+2023,Kaiser Foundation Hospital – South Bay,Acute Stroke,6.4,6.4,As Expected
+2023,Kaiser Foundation Hospital – South Bay,Carotid Endarterectomy,4.3,4.3,As Expected
+2023,Kaiser Foundation Hospital – South Bay,GI Hemorrhage,3.2,3.2,As Expected
+2023,Kaiser Foundation Hospital – South Bay,Heart Failure,3.9,3.9,As Expected
+2023,Kaiser Foundation Hospital – South Bay,Hip Fracture,1,1,As Expected
+2023,Kaiser Foundation Hospital – South Bay,PCI,0,0,As Expected
+2023,Kaiser Foundation Hospital – South Bay,Pancreatic Resection,0,0,As Expected
+2023,Kaiser Foundation Hospital – South Bay,Pneumonia,9.7,9.7,Worse
+2023,Kaiser Foundation Hospital – South Sacramento,AMI,7.2,7.2,As Expected
+2023,Kaiser Foundation Hospital – South Sacramento,Acute Stroke,10.3,10.3,As Expected
+2023,Kaiser Foundation Hospital – South Sacramento,GI Hemorrhage,3.8,3.8,As Expected
+2023,Kaiser Foundation Hospital – South Sacramento,Heart Failure,3.1,3.1,As Expected
+2023,Kaiser Foundation Hospital – South Sacramento,Hip Fracture,0.4,0.4,As Expected
+2023,Kaiser Foundation Hospital – South Sacramento,PCI,5,5,As Expected
+2023,Kaiser Foundation Hospital – South Sacramento,Pneumonia,8.8,8.8,Worse
+2023,Kaiser Foundation Hospital – South San Francisco,AMI,7.2,7.2,As Expected
+2023,Kaiser Foundation Hospital – South San Francisco,Acute Stroke,7.2,7.2,As Expected
+2023,Kaiser Foundation Hospital – South San Francisco,GI Hemorrhage,4.3,4.3,As Expected
+2023,Kaiser Foundation Hospital – South San Francisco,Heart Failure,3.4,3.4,As Expected
+2023,Kaiser Foundation Hospital – South San Francisco,Hip Fracture,0,0,As Expected
+2023,Kaiser Foundation Hospital – South San Francisco,Pneumonia,3.3,3.3,Better
+2023,Kaiser Foundation Hospital – Vacaville,AMI,4.7,4.7,As Expected
+2023,Kaiser Foundation Hospital – Vacaville,GI Hemorrhage,4.8,4.8,As Expected
+2023,Kaiser Foundation Hospital – Vacaville,Heart Failure,4.3,4.3,As Expected
+2023,Kaiser Foundation Hospital – Vacaville,Hip Fracture,3.4,3.4,As Expected
+2023,Kaiser Foundation Hospital – Vacaville,Acute Stroke,13.2,13.2,Worse
+2023,Kaiser Foundation Hospital – Vacaville,Pneumonia,10.8,10.8,Worse
+2023,Kaiser Foundation Hospital – Walnut Creek,AMI,5.4,5.4,As Expected
+2023,Kaiser Foundation Hospital – Walnut Creek,Acute Stroke,7.9,7.9,As Expected
+2023,Kaiser Foundation Hospital – Walnut Creek,Carotid Endarterectomy,0,0,As Expected
+2023,Kaiser Foundation Hospital – Walnut Creek,GI Hemorrhage,2.5,2.5,As Expected
+2023,Kaiser Foundation Hospital – Walnut Creek,Heart Failure,3.8,3.8,As Expected
+2023,Kaiser Foundation Hospital – Walnut Creek,Hip Fracture,0.8,0.8,As Expected
+2023,Kaiser Foundation Hospital – Walnut Creek,PCI,3.3,3.3,As Expected
+2023,Kaiser Foundation Hospital – Walnut Creek,Pneumonia,8.4,8.4,As Expected
+2023,Kaiser Foundation Hospital – West LA,AMI,3.6,3.6,As Expected
+2023,Kaiser Foundation Hospital – West LA,Acute Stroke,9.4,9.4,As Expected
+2023,Kaiser Foundation Hospital – West LA,Carotid Endarterectomy,0,0,As Expected
+2023,Kaiser Foundation Hospital – West LA,GI Hemorrhage,3.2,3.2,As Expected
+2023,Kaiser Foundation Hospital – West LA,Hip Fracture,3,3,As Expected
+2023,Kaiser Foundation Hospital – West LA,PCI,0,0,As Expected
+2023,Kaiser Foundation Hospital – West LA,Pancreatic Resection,0,0,As Expected
+2023,Kaiser Foundation Hospital – West LA,Heart Failure,4.8,4.8,Worse
+2023,Kaiser Foundation Hospital – West LA,Pneumonia,8.9,8.9,Worse
+2023,Kaiser Foundation Hospital – Woodland Hills,AMI,2.7,2.7,As Expected
+2023,Kaiser Foundation Hospital – Woodland Hills,Acute Stroke,4.9,4.9,As Expected
+2023,Kaiser Foundation Hospital – Woodland Hills,Carotid Endarterectomy,1.8,1.8,As Expected
+2023,Kaiser Foundation Hospital – Woodland Hills,GI Hemorrhage,1.1,1.1,As Expected
+2023,Kaiser Foundation Hospital – Woodland Hills,Heart Failure,1.7,1.7,As Expected
+2023,Kaiser Foundation Hospital – Woodland Hills,Hip Fracture,0.9,0.9,As Expected
+2023,Kaiser Foundation Hospital – Woodland Hills,Pneumonia,5,5,As Expected
+2023,Kaiser Foundation Hospital & Rehab Center – Vallejo,AMI,6.7,6.7,As Expected
+2023,Kaiser Foundation Hospital & Rehab Center – Vallejo,Carotid Endarterectomy,19.9,19.9,As Expected
+2023,Kaiser Foundation Hospital & Rehab Center – Vallejo,Hip Fracture,1.6,1.6,As Expected
+2023,Kaiser Foundation Hospital & Rehab Center – Vallejo,PCI,5.4,5.4,As Expected
+2023,Kaiser Foundation Hospital & Rehab Center – Vallejo,Acute Stroke,14.7,14.7,Worse
+2023,Kaiser Foundation Hospital & Rehab Center – Vallejo,GI Hemorrhage,5.7,5.7,Worse
+2023,Kaiser Foundation Hospital & Rehab Center – Vallejo,Heart Failure,6.2,6.2,Worse
+2023,Kaiser Foundation Hospital & Rehab Center – Vallejo,Pneumonia,11.7,11.7,Worse
+2023,Kaweah Health Medical Center,AMI,7.2,7.2,As Expected
+2023,Kaweah Health Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Kaweah Health Medical Center,GI Hemorrhage,4.1,4.1,As Expected
+2023,Kaweah Health Medical Center,Hip Fracture,1.8,1.8,As Expected
+2023,Kaweah Health Medical Center,PCI,3.6,3.6,As Expected
+2023,Kaweah Health Medical Center,Pancreatic Resection,0,0,As Expected
+2023,Kaweah Health Medical Center,Acute Stroke,11.7,11.7,Worse
+2023,Kaweah Health Medical Center,Heart Failure,3.9,3.9,Worse
+2023,Kaweah Health Medical Center,Pneumonia,12.4,12.4,Worse
+2023,Keck Hospital of USC,AMI,5.2,5.2,As Expected
+2023,Keck Hospital of USC,Carotid Endarterectomy,0,0,As Expected
+2023,Keck Hospital of USC,GI Hemorrhage,1.6,1.6,As Expected
+2023,Keck Hospital of USC,Heart Failure,2.9,2.9,As Expected
+2023,Keck Hospital of USC,Hip Fracture,0,0,As Expected
+2023,Keck Hospital of USC,PCI,5.4,5.4,As Expected
+2023,Keck Hospital of USC,Pancreatic Resection,2.6,2.6,As Expected
+2023,Keck Hospital of USC,Pneumonia,4.6,4.6,As Expected
+2023,Keck Hospital of USC,Acute Stroke,6.4,6.4,Better
+2023,Kern Medical Center,AMI,13.9,13.9,As Expected
+2023,Kern Medical Center,Acute Stroke,10.4,10.4,As Expected
+2023,Kern Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Kern Medical Center,GI Hemorrhage,4.9,4.9,As Expected
+2023,Kern Medical Center,Heart Failure,3.1,3.1,As Expected
+2023,Kern Medical Center,Hip Fracture,3.8,3.8,As Expected
+2023,Kern Medical Center,Pancreatic Resection,0,0,As Expected
+2023,Kern Medical Center,Pneumonia,7,7,As Expected
+2023,Kern Valley Healthcare District,Heart Failure,0,0,As Expected
+2023,Kern Valley Healthcare District,Pneumonia,0,0,As Expected
+2023,L.A. Downtown Medical Center,GI Hemorrhage,0,0,As Expected
+2023,L.A. Downtown Medical Center,Heart Failure,0,0,As Expected
+2023,L.A. Downtown Medical Center,Hip Fracture,0,0,As Expected
+2023,L.A. Downtown Medical Center,Pneumonia,0,0,As Expected
+2023,La Palma Intercommunity Hospital,AMI,0,0,As Expected
+2023,La Palma Intercommunity Hospital,Acute Stroke,0,0,As Expected
+2023,La Palma Intercommunity Hospital,GI Hemorrhage,0,0,As Expected
+2023,La Palma Intercommunity Hospital,Heart Failure,2.1,2.1,As Expected
+2023,La Palma Intercommunity Hospital,Hip Fracture,1.9,1.9,As Expected
+2023,La Palma Intercommunity Hospital,Pneumonia,5.9,5.9,As Expected
+2023,Loma Linda University Medical Center,AMI,5.5,5.5,As Expected
+2023,Loma Linda University Medical Center,Acute Stroke,8.9,8.9,As Expected
+2023,Loma Linda University Medical Center,Carotid Endarterectomy,4.9,4.9,As Expected
+2023,Loma Linda University Medical Center,GI Hemorrhage,3.2,3.2,As Expected
+2023,Loma Linda University Medical Center,Heart Failure,3.5,3.5,As Expected
+2023,Loma Linda University Medical Center,Hip Fracture,1.6,1.6,As Expected
+2023,Loma Linda University Medical Center,Pancreatic Resection,6.3,6.3,As Expected
+2023,Loma Linda University Medical Center,Pneumonia,7,7,As Expected
+2023,Loma Linda University Medical Center,PCI,2.5,2.5,Better
+2023,Loma Linda University Medical Center – Murrieta,AMI,6.3,6.3,As Expected
+2023,Loma Linda University Medical Center – Murrieta,Acute Stroke,6.8,6.8,As Expected
+2023,Loma Linda University Medical Center – Murrieta,Carotid Endarterectomy,0,0,As Expected
+2023,Loma Linda University Medical Center – Murrieta,GI Hemorrhage,1.5,1.5,As Expected
+2023,Loma Linda University Medical Center – Murrieta,Heart Failure,2.7,2.7,As Expected
+2023,Loma Linda University Medical Center – Murrieta,Hip Fracture,1.1,1.1,As Expected
+2023,Loma Linda University Medical Center – Murrieta,PCI,5.3,5.3,As Expected
+2023,Loma Linda University Medical Center – Murrieta,Pancreatic Resection,0,0,As Expected
+2023,Loma Linda University Medical Center – Murrieta,Pneumonia,11.2,11.2,Worse
+2023,Lompoc Valley Medical Center,Acute Stroke,9,9,As Expected
+2023,Lompoc Valley Medical Center,GI Hemorrhage,3.4,3.4,As Expected
+2023,Lompoc Valley Medical Center,Heart Failure,3.4,3.4,As Expected
+2023,Lompoc Valley Medical Center,Hip Fracture,0,0,As Expected
+2023,Lompoc Valley Medical Center,Pneumonia,18.9,18.9,Worse
+2023,Los Angeles Community Hospital,AMI,0,0,As Expected
+2023,Los Angeles Community Hospital,Acute Stroke,0,0,As Expected
+2023,Los Angeles Community Hospital,GI Hemorrhage,2,2,As Expected
+2023,Los Angeles Community Hospital,Heart Failure,1.7,1.7,As Expected
+2023,Los Angeles Community Hospital,Hip Fracture,2.8,2.8,As Expected
+2023,Los Angeles Community Hospital,Pneumonia,3,3,Better
+2023,Los Angeles County Olive View – UCLA Medical Center,AMI,5.2,5.2,As Expected
+2023,Los Angeles County Olive View – UCLA Medical Center,Acute Stroke,5.2,5.2,As Expected
+2023,Los Angeles County Olive View – UCLA Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Los Angeles County Olive View – UCLA Medical Center,GI Hemorrhage,1.3,1.3,As Expected
+2023,Los Angeles County Olive View – UCLA Medical Center,Heart Failure,1.4,1.4,As Expected
+2023,Los Angeles County Olive View – UCLA Medical Center,Hip Fracture,0,0,As Expected
+2023,Los Angeles County Olive View – UCLA Medical Center,PCI,3.5,3.5,As Expected
+2023,Los Angeles County Olive View – UCLA Medical Center,Pancreatic Resection,0,0,As Expected
+2023,Los Angeles County Olive View – UCLA Medical Center,Pneumonia,4.3,4.3,As Expected
+2023,Los Angeles County/Harbor – UCLA Medical Center,AMI,5.9,5.9,As Expected
+2023,Los Angeles County/Harbor – UCLA Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Los Angeles County/Harbor – UCLA Medical Center,GI Hemorrhage,2.6,2.6,As Expected
+2023,Los Angeles County/Harbor – UCLA Medical Center,Heart Failure,2.9,2.9,As Expected
+2023,Los Angeles County/Harbor – UCLA Medical Center,Hip Fracture,2.5,2.5,As Expected
+2023,Los Angeles County/Harbor – UCLA Medical Center,Pancreatic Resection,0,0,As Expected
+2023,Los Angeles County/Harbor – UCLA Medical Center,Pneumonia,6.9,6.9,As Expected
+2023,Los Angeles County/Harbor – UCLA Medical Center,Acute Stroke,12.8,12.8,Worse
+2023,Los Angeles County/Harbor – UCLA Medical Center,PCI,6.2,6.2,Worse
+2023,Los Angeles County/Rancho Los Amigos National Rehab Center,Acute Stroke,5.6,5.6,As Expected
+2023,Los Angeles County/Rancho Los Amigos National Rehab Center,Heart Failure,0,0,As Expected
+2023,Los Angeles County/Rancho Los Amigos National Rehab Center,Pneumonia,0,0,As Expected
+2023,Los Angeles General Medical Center,Acute Stroke,9.5,9.5,As Expected
+2023,Los Angeles General Medical Center,Carotid Endarterectomy,1.3,1.3,As Expected
+2023,Los Angeles General Medical Center,Hip Fracture,4,4,As Expected
+2023,Los Angeles General Medical Center,PCI,2.8,2.8,As Expected
+2023,Los Angeles General Medical Center,Pancreatic Resection,3.1,3.1,As Expected
+2023,Los Angeles General Medical Center,AMI,2.9,2.9,Better
+2023,Los Angeles General Medical Center,GI Hemorrhage,1.7,1.7,Better
+2023,Los Angeles General Medical Center,Heart Failure,1,1,Better
+2023,Los Angeles General Medical Center,Pneumonia,3.7,3.7,Better
+2023,Los Robles Hospital & Medical Center,AMI,4.3,4.3,As Expected
+2023,Los Robles Hospital & Medical Center,Acute Stroke,7.3,7.3,As Expected
+2023,Los Robles Hospital & Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Los Robles Hospital & Medical Center,GI Hemorrhage,1.8,1.8,As Expected
+2023,Los Robles Hospital & Medical Center,Heart Failure,1.9,1.9,As Expected
+2023,Los Robles Hospital & Medical Center,Hip Fracture,2.1,2.1,As Expected
+2023,Los Robles Hospital & Medical Center,PCI,2.2,2.2,As Expected
+2023,Los Robles Hospital & Medical Center,Pancreatic Resection,0,0,As Expected
+2023,Los Robles Hospital & Medical Center,Pneumonia,4.7,4.7,As Expected
+2023,Mad River Community Hospital,AMI,0,0,As Expected
+2023,Mad River Community Hospital,Acute Stroke,17.4,17.4,As Expected
+2023,Mad River Community Hospital,GI Hemorrhage,3.2,3.2,As Expected
+2023,Mad River Community Hospital,Heart Failure,4,4,As Expected
+2023,Mad River Community Hospital,Hip Fracture,6.5,6.5,As Expected
+2023,Mad River Community Hospital,Pneumonia,6.3,6.3,As Expected
+2023,Mammoth Hospital,GI Hemorrhage,0,0,As Expected
+2023,Mammoth Hospital,Heart Failure,0,0,As Expected
+2023,Mammoth Hospital,Hip Fracture,0,0,As Expected
+2023,Mammoth Hospital,Pneumonia,0,0,As Expected
+2023,Marian Regional Medical Center,AMI,7.9,7.9,As Expected
+2023,Marian Regional Medical Center,Acute Stroke,9.1,9.1,As Expected
+2023,Marian Regional Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Marian Regional Medical Center,GI Hemorrhage,4.8,4.8,As Expected
+2023,Marian Regional Medical Center,Heart Failure,2.6,2.6,As Expected
+2023,Marian Regional Medical Center,Hip Fracture,2.4,2.4,As Expected
+2023,Marian Regional Medical Center,PCI,2.9,2.9,As Expected
+2023,Marian Regional Medical Center,Pneumonia,5.8,5.8,As Expected
+2023,Marian Regional Medical Center – Arroyo Grande,AMI,20.8,20.8,As Expected
+2023,Marian Regional Medical Center – Arroyo Grande,Acute Stroke,2.9,2.9,As Expected
+2023,Marian Regional Medical Center – Arroyo Grande,Carotid Endarterectomy,0,0,As Expected
+2023,Marian Regional Medical Center – Arroyo Grande,GI Hemorrhage,2,2,As Expected
+2023,Marian Regional Medical Center – Arroyo Grande,Heart Failure,2.8,2.8,As Expected
+2023,Marian Regional Medical Center – Arroyo Grande,Hip Fracture,2.4,2.4,As Expected
+2023,Marian Regional Medical Center – Arroyo Grande,Pancreatic Resection,0,0,As Expected
+2023,Marian Regional Medical Center – Arroyo Grande,Pneumonia,5.3,5.3,As Expected
+2023,MarinHealth Medical Center,AMI,4,4,As Expected
+2023,MarinHealth Medical Center,Acute Stroke,11.8,11.8,As Expected
+2023,MarinHealth Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,MarinHealth Medical Center,GI Hemorrhage,0.7,0.7,As Expected
+2023,MarinHealth Medical Center,Heart Failure,1.4,1.4,As Expected
+2023,MarinHealth Medical Center,Hip Fracture,2.4,2.4,As Expected
+2023,MarinHealth Medical Center,PCI,3.1,3.1,As Expected
+2023,MarinHealth Medical Center,Pneumonia,5.6,5.6,As Expected
+2023,Mark Twain Medical Center,Acute Stroke,11.4,11.4,As Expected
+2023,Mark Twain Medical Center,Heart Failure,4.8,4.8,As Expected
+2023,Mark Twain Medical Center,Hip Fracture,0,0,As Expected
+2023,Mark Twain Medical Center,Pneumonia,8.7,8.7,As Expected
+2023,Marshall Medical Center,AMI,8.4,8.4,As Expected
+2023,Marshall Medical Center,Acute Stroke,7.4,7.4,As Expected
+2023,Marshall Medical Center,GI Hemorrhage,2.1,2.1,As Expected
+2023,Marshall Medical Center,Heart Failure,3.1,3.1,As Expected
+2023,Marshall Medical Center,Hip Fracture,2.3,2.3,As Expected
+2023,Marshall Medical Center,Pneumonia,6,6,As Expected
+2023,Mayers Memorial Hospital,Heart Failure,0,0,As Expected
+2023,Mayers Memorial Hospital,Pneumonia,5.2,5.2,As Expected
+2023,Memorial Hospital Los Banos,Acute Stroke,10.4,10.4,As Expected
+2023,Memorial Hospital Los Banos,GI Hemorrhage,19.8,19.8,As Expected
+2023,Memorial Hospital Los Banos,Hip Fracture,0,0,As Expected
+2023,Memorial Hospital Los Banos,Pneumonia,7.4,7.4,As Expected
+2023,Memorial Hospital Los Banos,Heart Failure,8.2,8.2,Worse
+2023,Memorial Hospital of Gardena,AMI,13.5,13.5,As Expected
+2023,Memorial Hospital of Gardena,Acute Stroke,4.7,4.7,As Expected
+2023,Memorial Hospital of Gardena,Heart Failure,3.3,3.3,As Expected
+2023,Memorial Hospital of Gardena,Hip Fracture,0,0,As Expected
+2023,Memorial Hospital of Gardena,Pneumonia,6.7,6.7,As Expected
+2023,Memorial Hospital of Gardena,GI Hemorrhage,5.4,5.4,Worse
+2023,Memorial Medical Center – Modesto,AMI,6.3,6.3,As Expected
+2023,Memorial Medical Center – Modesto,Acute Stroke,6.6,6.6,As Expected
+2023,Memorial Medical Center – Modesto,Carotid Endarterectomy,0,0,As Expected
+2023,Memorial Medical Center – Modesto,GI Hemorrhage,2.9,2.9,As Expected
+2023,Memorial Medical Center – Modesto,Heart Failure,3.4,3.4,As Expected
+2023,Memorial Medical Center – Modesto,Hip Fracture,2.1,2.1,As Expected
+2023,Memorial Medical Center – Modesto,PCI,4.8,4.8,As Expected
+2023,Memorial Medical Center – Modesto,Pancreatic Resection,0,0,As Expected
+2023,Memorial Medical Center – Modesto,Pneumonia,6,6,As Expected
+2023,MemorialCare Long Beach Medical Center,AMI,4.3,4.3,As Expected
+2023,MemorialCare Long Beach Medical Center,Acute Stroke,9.5,9.5,As Expected
+2023,MemorialCare Long Beach Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,MemorialCare Long Beach Medical Center,GI Hemorrhage,4.5,4.5,As Expected
+2023,MemorialCare Long Beach Medical Center,Heart Failure,3.7,3.7,As Expected
+2023,MemorialCare Long Beach Medical Center,Hip Fracture,4.1,4.1,As Expected
+2023,MemorialCare Long Beach Medical Center,PCI,3.6,3.6,As Expected
+2023,MemorialCare Long Beach Medical Center,Pancreatic Resection,9.1,9.1,As Expected
+2023,MemorialCare Long Beach Medical Center,Pneumonia,6,6,As Expected
+2023,MemorialCare Orange Coast Medical Center,Acute Stroke,3.1,3.1,As Expected
+2023,MemorialCare Orange Coast Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,MemorialCare Orange Coast Medical Center,GI Hemorrhage,1.2,1.2,As Expected
+2023,MemorialCare Orange Coast Medical Center,Heart Failure,1.9,1.9,As Expected
+2023,MemorialCare Orange Coast Medical Center,Hip Fracture,1.7,1.7,As Expected
+2023,MemorialCare Orange Coast Medical Center,PCI,1.9,1.9,As Expected
+2023,MemorialCare Orange Coast Medical Center,Pancreatic Resection,1.6,1.6,As Expected
+2023,MemorialCare Orange Coast Medical Center,AMI,2.7,2.7,Better
+2023,MemorialCare Orange Coast Medical Center,Pneumonia,3.2,3.2,Better
+2023,MemorialCare Saddleback Medical Center,AMI,5.2,5.2,As Expected
+2023,MemorialCare Saddleback Medical Center,Acute Stroke,6.8,6.8,As Expected
+2023,MemorialCare Saddleback Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,MemorialCare Saddleback Medical Center,GI Hemorrhage,1.5,1.5,As Expected
+2023,MemorialCare Saddleback Medical Center,Hip Fracture,0.5,0.5,As Expected
+2023,MemorialCare Saddleback Medical Center,PCI,3.9,3.9,As Expected
+2023,MemorialCare Saddleback Medical Center,Heart Failure,1.2,1.2,Better
+2023,MemorialCare Saddleback Medical Center,Pneumonia,3.8,3.8,Better
+2023,Menifee Global Medical Center,AMI,3.9,3.9,As Expected
+2023,Menifee Global Medical Center,Acute Stroke,0,0,As Expected
+2023,Menifee Global Medical Center,GI Hemorrhage,0,0,As Expected
+2023,Menifee Global Medical Center,Heart Failure,2.8,2.8,As Expected
+2023,Menifee Global Medical Center,Hip Fracture,3.6,3.6,As Expected
+2023,Menifee Global Medical Center,Pneumonia,4.5,4.5,As Expected
+2023,Mercy General Hospital,AMI,5.4,5.4,As Expected
+2023,Mercy General Hospital,Acute Stroke,9.9,9.9,As Expected
+2023,Mercy General Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,Mercy General Hospital,GI Hemorrhage,2.9,2.9,As Expected
+2023,Mercy General Hospital,Heart Failure,3.3,3.3,As Expected
+2023,Mercy General Hospital,Hip Fracture,2.9,2.9,As Expected
+2023,Mercy General Hospital,PCI,3.6,3.6,As Expected
+2023,Mercy General Hospital,Pancreatic Resection,0,0,As Expected
+2023,Mercy General Hospital,Pneumonia,8.2,8.2,As Expected
+2023,Mercy Hospital – Bakersfield,AMI,4.8,4.8,As Expected
+2023,Mercy Hospital – Bakersfield,Acute Stroke,10.8,10.8,As Expected
+2023,Mercy Hospital – Bakersfield,Carotid Endarterectomy,0,0,As Expected
+2023,Mercy Hospital – Bakersfield,GI Hemorrhage,3,3,As Expected
+2023,Mercy Hospital – Bakersfield,Heart Failure,3,3,As Expected
+2023,Mercy Hospital – Bakersfield,Hip Fracture,3.6,3.6,As Expected
+2023,Mercy Hospital – Bakersfield,Pneumonia,8.2,8.2,As Expected
+2023,Mercy Hospital of Folsom,AMI,11.7,11.7,As Expected
+2023,Mercy Hospital of Folsom,Acute Stroke,7.8,7.8,As Expected
+2023,Mercy Hospital of Folsom,GI Hemorrhage,2.4,2.4,As Expected
+2023,Mercy Hospital of Folsom,Heart Failure,2.4,2.4,As Expected
+2023,Mercy Hospital of Folsom,Hip Fracture,1.7,1.7,As Expected
+2023,Mercy Hospital of Folsom,Pneumonia,6.8,6.8,As Expected
+2023,Mercy Medical Center – Merced,AMI,4.3,4.3,As Expected
+2023,Mercy Medical Center – Merced,GI Hemorrhage,6.6,6.6,As Expected
+2023,Mercy Medical Center – Merced,Heart Failure,1.7,1.7,As Expected
+2023,Mercy Medical Center – Merced,Hip Fracture,2.9,2.9,As Expected
+2023,Mercy Medical Center – Merced,PCI,0,0,As Expected
+2023,Mercy Medical Center – Merced,Pneumonia,8.1,8.1,As Expected
+2023,Mercy Medical Center – Merced,Acute Stroke,2.2,2.2,Better
+2023,Mercy Medical Center – Redding,AMI,6.7,6.7,As Expected
+2023,Mercy Medical Center – Redding,Carotid Endarterectomy,6.4,6.4,As Expected
+2023,Mercy Medical Center – Redding,GI Hemorrhage,3.3,3.3,As Expected
+2023,Mercy Medical Center – Redding,Heart Failure,3.8,3.8,As Expected
+2023,Mercy Medical Center – Redding,Hip Fracture,1.7,1.7,As Expected
+2023,Mercy Medical Center – Redding,PCI,4,4,As Expected
+2023,Mercy Medical Center – Redding,Acute Stroke,14.4,14.4,Worse
+2023,Mercy Medical Center – Redding,Pneumonia,9.9,9.9,Worse
+2023,Mercy Medical Center Mt. Shasta,AMI,0,0,As Expected
+2023,Mercy Medical Center Mt. Shasta,Acute Stroke,0,0,As Expected
+2023,Mercy Medical Center Mt. Shasta,GI Hemorrhage,0,0,As Expected
+2023,Mercy Medical Center Mt. Shasta,Heart Failure,0,0,As Expected
+2023,Mercy Medical Center Mt. Shasta,Hip Fracture,0,0,As Expected
+2023,Mercy Medical Center Mt. Shasta,Pneumonia,25.1,25.1,Worse
+2023,Mercy San Juan Medical Center,AMI,5.3,5.3,As Expected
+2023,Mercy San Juan Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Mercy San Juan Medical Center,GI Hemorrhage,2.1,2.1,As Expected
+2023,Mercy San Juan Medical Center,Hip Fracture,3.3,3.3,As Expected
+2023,Mercy San Juan Medical Center,PCI,4,4,As Expected
+2023,Mercy San Juan Medical Center,Pneumonia,7.3,7.3,As Expected
+2023,Mercy San Juan Medical Center,Acute Stroke,10.5,10.5,Worse
+2023,Mercy San Juan Medical Center,Heart Failure,4.1,4.1,Worse
+2023,Methodist Hospital of Sacramento,AMI,8.7,8.7,As Expected
+2023,Methodist Hospital of Sacramento,Acute Stroke,10.5,10.5,As Expected
+2023,Methodist Hospital of Sacramento,GI Hemorrhage,2.1,2.1,As Expected
+2023,Methodist Hospital of Sacramento,Heart Failure,2.6,2.6,As Expected
+2023,Methodist Hospital of Sacramento,Hip Fracture,1.3,1.3,As Expected
+2023,Methodist Hospital of Sacramento,Pneumonia,4.3,4.3,As Expected
+2023,Mills-Peninsula Medical Center,AMI,4.1,4.1,As Expected
+2023,Mills-Peninsula Medical Center,Carotid Endarterectomy,5.5,5.5,As Expected
+2023,Mills-Peninsula Medical Center,GI Hemorrhage,2.8,2.8,As Expected
+2023,Mills-Peninsula Medical Center,Heart Failure,3,3,As Expected
+2023,Mills-Peninsula Medical Center,Hip Fracture,1.3,1.3,As Expected
+2023,Mills-Peninsula Medical Center,PCI,3.6,3.6,As Expected
+2023,Mills-Peninsula Medical Center,Pancreatic Resection,4.4,4.4,As Expected
+2023,Mills-Peninsula Medical Center,Pneumonia,5.1,5.1,As Expected
+2023,Mills-Peninsula Medical Center,Acute Stroke,11.3,11.3,Worse
+2023,Mission Community Hospital – Panorama Campus,AMI,8.4,8.4,As Expected
+2023,Mission Community Hospital – Panorama Campus,Acute Stroke,11.4,11.4,As Expected
+2023,Mission Community Hospital – Panorama Campus,GI Hemorrhage,3.5,3.5,As Expected
+2023,Mission Community Hospital – Panorama Campus,Heart Failure,0,0,As Expected
+2023,Mission Community Hospital – Panorama Campus,Hip Fracture,0,0,As Expected
+2023,Mission Community Hospital – Panorama Campus,Pneumonia,10.9,10.9,Worse
+2023,Modoc Medical Center,Heart Failure,0,0,As Expected
+2023,Modoc Medical Center,Pneumonia,31.6,31.6,As Expected
+2023,Montclair Hospital Medical Center,AMI,3,3,As Expected
+2023,Montclair Hospital Medical Center,Acute Stroke,0,0,As Expected
+2023,Montclair Hospital Medical Center,GI Hemorrhage,2.2,2.2,As Expected
+2023,Montclair Hospital Medical Center,Heart Failure,0,0,As Expected
+2023,Montclair Hospital Medical Center,Hip Fracture,0,0,As Expected
+2023,Montclair Hospital Medical Center,Pneumonia,5.2,5.2,As Expected
+2023,Monterey Park Hospital,AMI,9.7,9.7,As Expected
+2023,Monterey Park Hospital,Acute Stroke,5.2,5.2,As Expected
+2023,Monterey Park Hospital,GI Hemorrhage,3.6,3.6,As Expected
+2023,Monterey Park Hospital,Heart Failure,0.9,0.9,As Expected
+2023,Monterey Park Hospital,Pneumonia,7.9,7.9,As Expected
+2023,Mountains Community Hospital,Heart Failure,24.9,24.9,As Expected
+2023,Mountains Community Hospital,Pneumonia,0,0,As Expected
+2023,Natividad Medical Center,AMI,0,0,As Expected
+2023,Natividad Medical Center,Acute Stroke,11.7,11.7,As Expected
+2023,Natividad Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Natividad Medical Center,GI Hemorrhage,1.8,1.8,As Expected
+2023,Natividad Medical Center,Heart Failure,3.8,3.8,As Expected
+2023,Natividad Medical Center,Hip Fracture,1.1,1.1,As Expected
+2023,Natividad Medical Center,Pneumonia,5.7,5.7,As Expected
+2023,Northbay Medical Center,AMI,4.9,4.9,As Expected
+2023,Northbay Medical Center,Acute Stroke,9.6,9.6,As Expected
+2023,Northbay Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Northbay Medical Center,GI Hemorrhage,3.8,3.8,As Expected
+2023,Northbay Medical Center,Heart Failure,3.2,3.2,As Expected
+2023,Northbay Medical Center,PCI,4.7,4.7,As Expected
+2023,Northbay Medical Center,Pneumonia,5.9,5.9,As Expected
+2023,Northbay Medical Center,Hip Fracture,7.3,7.3,Worse
+2023,Northern Inyo Hospital,Acute Stroke,9.7,9.7,As Expected
+2023,Northern Inyo Hospital,GI Hemorrhage,0,0,As Expected
+2023,Northern Inyo Hospital,Heart Failure,0,0,As Expected
+2023,Northern Inyo Hospital,Hip Fracture,0,0,As Expected
+2023,Northern Inyo Hospital,Pneumonia,11.5,11.5,As Expected
+2023,Northridge Hospital Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Northridge Hospital Medical Center,GI Hemorrhage,3.2,3.2,As Expected
+2023,Northridge Hospital Medical Center,Hip Fracture,1.2,1.2,As Expected
+2023,Northridge Hospital Medical Center,AMI,2.7,2.7,Better
+2023,Northridge Hospital Medical Center,Acute Stroke,4,4,Better
+2023,Northridge Hospital Medical Center,Heart Failure,1.1,1.1,Better
+2023,Northridge Hospital Medical Center,PCI,2.4,2.4,Better
+2023,Northridge Hospital Medical Center,Pneumonia,2.7,2.7,Better
+2023,Norwalk Community Hospital,AMI,0,0,As Expected
+2023,Norwalk Community Hospital,Acute Stroke,0,0,As Expected
+2023,Norwalk Community Hospital,GI Hemorrhage,0,0,As Expected
+2023,Norwalk Community Hospital,Heart Failure,0,0,As Expected
+2023,Norwalk Community Hospital,Hip Fracture,0,0,As Expected
+2023,Norwalk Community Hospital,Pneumonia,5.3,5.3,As Expected
+2023,Novato Community Hospital,Acute Stroke,15,15,As Expected
+2023,Novato Community Hospital,GI Hemorrhage,3.1,3.1,As Expected
+2023,Novato Community Hospital,Heart Failure,1.5,1.5,As Expected
+2023,Novato Community Hospital,Hip Fracture,3.1,3.1,As Expected
+2023,Novato Community Hospital,Pneumonia,2.7,2.7,As Expected
+2023,O'Connor Hospital,AMI,4.6,4.6,As Expected
+2023,O'Connor Hospital,Acute Stroke,6.6,6.6,As Expected
+2023,O'Connor Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,O'Connor Hospital,GI Hemorrhage,2.6,2.6,As Expected
+2023,O'Connor Hospital,Heart Failure,1.4,1.4,As Expected
+2023,O'Connor Hospital,Hip Fracture,1.4,1.4,As Expected
+2023,O'Connor Hospital,PCI,3.4,3.4,As Expected
+2023,O'Connor Hospital,Pancreatic Resection,7.4,7.4,As Expected
+2023,O'Connor Hospital,Pneumonia,6.3,6.3,As Expected
+2023,Oak Valley Hospital District,Acute Stroke,11.3,11.3,As Expected
+2023,Oak Valley Hospital District,Heart Failure,5.3,5.3,As Expected
+2023,Oak Valley Hospital District,Pneumonia,2.8,2.8,As Expected
+2023,Orange County Global Medical Center,AMI,7.3,7.3,As Expected
+2023,Orange County Global Medical Center,Acute Stroke,6.8,6.8,As Expected
+2023,Orange County Global Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Orange County Global Medical Center,GI Hemorrhage,1.1,1.1,As Expected
+2023,Orange County Global Medical Center,Heart Failure,1.4,1.4,As Expected
+2023,Orange County Global Medical Center,Hip Fracture,0,0,As Expected
+2023,Orange County Global Medical Center,PCI,6.4,6.4,As Expected
+2023,Orange County Global Medical Center,Pneumonia,6.5,6.5,As Expected
+2023,Orchard Hospital,AMI,0,0,As Expected
+2023,Orchard Hospital,Acute Stroke,0,0,As Expected
+2023,Orchard Hospital,Heart Failure,5.8,5.8,As Expected
+2023,Orchard Hospital,Pneumonia,4.9,4.9,As Expected
+2023,Oroville Hospital,AMI,10.6,10.6,As Expected
+2023,Oroville Hospital,Acute Stroke,6.3,6.3,As Expected
+2023,Oroville Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,Oroville Hospital,GI Hemorrhage,1.9,1.9,As Expected
+2023,Oroville Hospital,Heart Failure,1.1,1.1,As Expected
+2023,Oroville Hospital,Hip Fracture,0.8,0.8,As Expected
+2023,Oroville Hospital,PCI,0,0,As Expected
+2023,Oroville Hospital,Pneumonia,4,4,Better
+2023,Pacifica Hospital of the Valley,AMI,0,0,As Expected
+2023,Pacifica Hospital of the Valley,GI Hemorrhage,8.7,8.7,As Expected
+2023,Pacifica Hospital of the Valley,Heart Failure,0,0,As Expected
+2023,Pacifica Hospital of the Valley,Pneumonia,27.3,27.3,Worse
+2023,Palmdale Regional Medical Center,AMI,4.6,4.6,As Expected
+2023,Palmdale Regional Medical Center,Acute Stroke,9.1,9.1,As Expected
+2023,Palmdale Regional Medical Center,GI Hemorrhage,2.3,2.3,As Expected
+2023,Palmdale Regional Medical Center,Heart Failure,1.8,1.8,As Expected
+2023,Palmdale Regional Medical Center,Hip Fracture,0,0,As Expected
+2023,Palmdale Regional Medical Center,Pneumonia,5.7,5.7,As Expected
+2023,Palmdale Regional Medical Center,PCI,0.8,0.8,Better
+2023,Palomar Medical Center,AMI,5.7,5.7,As Expected
+2023,Palomar Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Palomar Medical Center,Hip Fracture,2.3,2.3,As Expected
+2023,Palomar Medical Center,PCI,4.4,4.4,As Expected
+2023,Palomar Medical Center,Acute Stroke,12.2,12.2,Worse
+2023,Palomar Medical Center,GI Hemorrhage,6,6,Worse
+2023,Palomar Medical Center,Heart Failure,4.9,4.9,Worse
+2023,Palomar Medical Center,Pneumonia,11.2,11.2,Worse
+2023,Palomar Medical Center Poway,AMI,0,0,As Expected
+2023,Palomar Medical Center Poway,Acute Stroke,13.1,13.1,As Expected
+2023,Palomar Medical Center Poway,GI Hemorrhage,3.7,3.7,As Expected
+2023,Palomar Medical Center Poway,Heart Failure,4.7,4.7,As Expected
+2023,Palomar Medical Center Poway,Hip Fracture,2.1,2.1,As Expected
+2023,Palomar Medical Center Poway,Pneumonia,8.4,8.4,As Expected
+2023,Paradise Valley Hospital,AMI,6.8,6.8,As Expected
+2023,Paradise Valley Hospital,Acute Stroke,10.8,10.8,As Expected
+2023,Paradise Valley Hospital,GI Hemorrhage,0,0,As Expected
+2023,Paradise Valley Hospital,Heart Failure,0.7,0.7,As Expected
+2023,Paradise Valley Hospital,Hip Fracture,11.4,11.4,As Expected
+2023,Paradise Valley Hospital,PCI,5.6,5.6,As Expected
+2023,Paradise Valley Hospital,Pneumonia,6.2,6.2,As Expected
+2023,Petaluma Valley Hospital,AMI,12.9,12.9,As Expected
+2023,Petaluma Valley Hospital,Acute Stroke,0,0,As Expected
+2023,Petaluma Valley Hospital,GI Hemorrhage,0,0,As Expected
+2023,Petaluma Valley Hospital,Heart Failure,3.5,3.5,As Expected
+2023,Petaluma Valley Hospital,Hip Fracture,2.7,2.7,As Expected
+2023,Petaluma Valley Hospital,Pneumonia,5.6,5.6,As Expected
+2023,PIH Health Good Samaritan Hospital,Acute Stroke,5.2,5.2,As Expected
+2023,PIH Health Good Samaritan Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,PIH Health Good Samaritan Hospital,GI Hemorrhage,3.7,3.7,As Expected
+2023,PIH Health Good Samaritan Hospital,Heart Failure,2.9,2.9,As Expected
+2023,PIH Health Good Samaritan Hospital,Hip Fracture,1.6,1.6,As Expected
+2023,PIH Health Good Samaritan Hospital,PCI,5.2,5.2,As Expected
+2023,PIH Health Good Samaritan Hospital,AMI,8.1,8.1,Worse
+2023,PIH Health Good Samaritan Hospital,Pneumonia,10.6,10.6,Worse
+2023,PIH Health Hospital – Downey,AMI,7,7,As Expected
+2023,PIH Health Hospital – Downey,Acute Stroke,5.8,5.8,As Expected
+2023,PIH Health Hospital – Downey,Carotid Endarterectomy,0,0,As Expected
+2023,PIH Health Hospital – Downey,GI Hemorrhage,2.9,2.9,As Expected
+2023,PIH Health Hospital – Downey,Heart Failure,1.8,1.8,As Expected
+2023,PIH Health Hospital – Downey,Hip Fracture,1.7,1.7,As Expected
+2023,PIH Health Hospital – Downey,PCI,8.2,8.2,As Expected
+2023,PIH Health Hospital – Downey,Pneumonia,4.9,4.9,As Expected
+2023,PIH Health Whittier Hospital,AMI,5.6,5.6,As Expected
+2023,PIH Health Whittier Hospital,Carotid Endarterectomy,3.1,3.1,As Expected
+2023,PIH Health Whittier Hospital,Heart Failure,3.8,3.8,As Expected
+2023,PIH Health Whittier Hospital,Hip Fracture,2.9,2.9,As Expected
+2023,PIH Health Whittier Hospital,PCI,5.5,5.5,As Expected
+2023,PIH Health Whittier Hospital,Pancreatic Resection,0,0,As Expected
+2023,PIH Health Whittier Hospital,Pneumonia,6.1,6.1,As Expected
+2023,PIH Health Whittier Hospital,GI Hemorrhage,1.6,1.6,Better
+2023,PIH Health Whittier Hospital,Acute Stroke,9.7,9.7,Worse
+2023,Pioneers Memorial Healthcare District,AMI,19.6,19.6,As Expected
+2023,Pioneers Memorial Healthcare District,Acute Stroke,7.1,7.1,As Expected
+2023,Pioneers Memorial Healthcare District,GI Hemorrhage,3.8,3.8,As Expected
+2023,Pioneers Memorial Healthcare District,Heart Failure,2.9,2.9,As Expected
+2023,Pioneers Memorial Healthcare District,Hip Fracture,0,0,As Expected
+2023,Pioneers Memorial Healthcare District,Pneumonia,5.3,5.3,As Expected
+2023,Plumas District Hospital,Heart Failure,4.9,4.9,As Expected
+2023,Plumas District Hospital,Pneumonia,32.3,32.3,As Expected
+2023,Pomona Valley Hospital Medical Center,AMI,5,5,As Expected
+2023,Pomona Valley Hospital Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Pomona Valley Hospital Medical Center,GI Hemorrhage,3.9,3.9,As Expected
+2023,Pomona Valley Hospital Medical Center,Heart Failure,3,3,As Expected
+2023,Pomona Valley Hospital Medical Center,PCI,4.6,4.6,As Expected
+2023,Pomona Valley Hospital Medical Center,Pneumonia,6.2,6.2,As Expected
+2023,Pomona Valley Hospital Medical Center,Acute Stroke,10.1,10.1,Worse
+2023,Pomona Valley Hospital Medical Center,Hip Fracture,4.2,4.2,Worse
+2023,Priscilla Chan & Mark Zuckerberg San Francisco General Hospital & Trauma Center,AMI,6.1,6.1,As Expected
+2023,Priscilla Chan & Mark Zuckerberg San Francisco General Hospital & Trauma Center,Acute Stroke,8.2,8.2,As Expected
+2023,Priscilla Chan & Mark Zuckerberg San Francisco General Hospital & Trauma Center,Carotid Endarterectomy,0,0,As Expected
+2023,Priscilla Chan & Mark Zuckerberg San Francisco General Hospital & Trauma Center,GI Hemorrhage,2.8,2.8,As Expected
+2023,Priscilla Chan & Mark Zuckerberg San Francisco General Hospital & Trauma Center,Heart Failure,2.7,2.7,As Expected
+2023,Priscilla Chan & Mark Zuckerberg San Francisco General Hospital & Trauma Center,Hip Fracture,2.9,2.9,As Expected
+2023,Priscilla Chan & Mark Zuckerberg San Francisco General Hospital & Trauma Center,PCI,5.9,5.9,As Expected
+2023,Priscilla Chan & Mark Zuckerberg San Francisco General Hospital & Trauma Center,Pancreatic Resection,0,0,As Expected
+2023,Priscilla Chan & Mark Zuckerberg San Francisco General Hospital & Trauma Center,Pneumonia,6.8,6.8,As Expected
+2023,Providence Cedars – Sinai Tarzana Medical Center,AMI,6.5,6.5,As Expected
+2023,Providence Cedars – Sinai Tarzana Medical Center,Acute Stroke,5.3,5.3,As Expected
+2023,Providence Cedars – Sinai Tarzana Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Providence Cedars – Sinai Tarzana Medical Center,GI Hemorrhage,1.6,1.6,As Expected
+2023,Providence Cedars – Sinai Tarzana Medical Center,Heart Failure,3.3,3.3,As Expected
+2023,Providence Cedars – Sinai Tarzana Medical Center,Hip Fracture,1.6,1.6,As Expected
+2023,Providence Cedars – Sinai Tarzana Medical Center,PCI,4.1,4.1,As Expected
+2023,Providence Cedars – Sinai Tarzana Medical Center,Pneumonia,5.9,5.9,As Expected
+2023,Providence Holy Cross Medical Center,AMI,4.4,4.4,As Expected
+2023,Providence Holy Cross Medical Center,Acute Stroke,6.3,6.3,As Expected
+2023,Providence Holy Cross Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Providence Holy Cross Medical Center,Heart Failure,2.2,2.2,As Expected
+2023,Providence Holy Cross Medical Center,Hip Fracture,1.7,1.7,As Expected
+2023,Providence Holy Cross Medical Center,PCI,3.6,3.6,As Expected
+2023,Providence Holy Cross Medical Center,Pancreatic Resection,6.6,6.6,As Expected
+2023,Providence Holy Cross Medical Center,Pneumonia,4.3,4.3,As Expected
+2023,Providence Holy Cross Medical Center,GI Hemorrhage,0.3,0.3,Better
+2023,Providence Little Company of Mary Medical Center – San Pedro,Acute Stroke,9,9,As Expected
+2023,Providence Little Company of Mary Medical Center – San Pedro,GI Hemorrhage,3.8,3.8,As Expected
+2023,Providence Little Company of Mary Medical Center – San Pedro,Heart Failure,2.8,2.8,As Expected
+2023,Providence Little Company of Mary Medical Center – San Pedro,Hip Fracture,0,0,As Expected
+2023,Providence Little Company of Mary Medical Center – San Pedro,AMI,13.7,13.7,Worse
+2023,Providence Little Company of Mary Medical Center – San Pedro,Pneumonia,10.5,10.5,Worse
+2023,Providence Little Company of Mary Medical Center – Torrance,AMI,5.9,5.9,As Expected
+2023,Providence Little Company of Mary Medical Center – Torrance,Acute Stroke,7.9,7.9,As Expected
+2023,Providence Little Company of Mary Medical Center – Torrance,Carotid Endarterectomy,0,0,As Expected
+2023,Providence Little Company of Mary Medical Center – Torrance,GI Hemorrhage,3.5,3.5,As Expected
+2023,Providence Little Company of Mary Medical Center – Torrance,Heart Failure,1.8,1.8,As Expected
+2023,Providence Little Company of Mary Medical Center – Torrance,Hip Fracture,1.8,1.8,As Expected
+2023,Providence Little Company of Mary Medical Center – Torrance,PCI,3.3,3.3,As Expected
+2023,Providence Little Company of Mary Medical Center – Torrance,Pancreatic Resection,0,0,As Expected
+2023,Providence Little Company of Mary Medical Center – Torrance,Pneumonia,6.3,6.3,As Expected
+2023,Providence Mission Hospital,AMI,5.5,5.5,As Expected
+2023,Providence Mission Hospital,Acute Stroke,7.3,7.3,As Expected
+2023,Providence Mission Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,Providence Mission Hospital,GI Hemorrhage,2.2,2.2,As Expected
+2023,Providence Mission Hospital,Heart Failure,1.9,1.9,As Expected
+2023,Providence Mission Hospital,Hip Fracture,0.3,0.3,As Expected
+2023,Providence Mission Hospital,PCI,5.8,5.8,As Expected
+2023,Providence Mission Hospital,Pancreatic Resection,0,0,As Expected
+2023,Providence Mission Hospital,Pneumonia,4.5,4.5,Better
+2023,Providence Mission Hospital – Laguna Beach,AMI,0,0,As Expected
+2023,Providence Mission Hospital – Laguna Beach,Acute Stroke,0,0,As Expected
+2023,Providence Mission Hospital – Laguna Beach,GI Hemorrhage,0,0,As Expected
+2023,Providence Mission Hospital – Laguna Beach,Heart Failure,2.3,2.3,As Expected
+2023,Providence Mission Hospital – Laguna Beach,Hip Fracture,1.1,1.1,As Expected
+2023,Providence Mission Hospital – Laguna Beach,Pneumonia,3.7,3.7,As Expected
+2023,Providence Queen of the Valley Medical Center,AMI,5.7,5.7,As Expected
+2023,Providence Queen of the Valley Medical Center,Acute Stroke,9.7,9.7,As Expected
+2023,Providence Queen of the Valley Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Providence Queen of the Valley Medical Center,GI Hemorrhage,2.8,2.8,As Expected
+2023,Providence Queen of the Valley Medical Center,Heart Failure,4,4,As Expected
+2023,Providence Queen of the Valley Medical Center,Hip Fracture,1,1,As Expected
+2023,Providence Queen of the Valley Medical Center,PCI,5.4,5.4,As Expected
+2023,Providence Queen of the Valley Medical Center,Pneumonia,6.7,6.7,As Expected
+2023,Providence Redwood Memorial Hospital,Acute Stroke,37.3,37.3,As Expected
+2023,Providence Redwood Memorial Hospital,GI Hemorrhage,0,0,As Expected
+2023,Providence Redwood Memorial Hospital,Heart Failure,0,0,As Expected
+2023,Providence Redwood Memorial Hospital,Pneumonia,2.5,2.5,As Expected
+2023,Providence Saint John's Health Center,AMI,4,4,As Expected
+2023,Providence Saint John's Health Center,Acute Stroke,8.6,8.6,As Expected
+2023,Providence Saint John's Health Center,Carotid Endarterectomy,0,0,As Expected
+2023,Providence Saint John's Health Center,GI Hemorrhage,2.6,2.6,As Expected
+2023,Providence Saint John's Health Center,Heart Failure,3.4,3.4,As Expected
+2023,Providence Saint John's Health Center,Hip Fracture,1.6,1.6,As Expected
+2023,Providence Saint John's Health Center,PCI,5.3,5.3,As Expected
+2023,Providence Saint John's Health Center,Pancreatic Resection,0,0,As Expected
+2023,Providence Saint John's Health Center,Pneumonia,7.4,7.4,As Expected
+2023,Providence Saint Joseph Medical Center,AMI,5.7,5.7,As Expected
+2023,Providence Saint Joseph Medical Center,Acute Stroke,7.8,7.8,As Expected
+2023,Providence Saint Joseph Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Providence Saint Joseph Medical Center,GI Hemorrhage,3.4,3.4,As Expected
+2023,Providence Saint Joseph Medical Center,Heart Failure,2.9,2.9,As Expected
+2023,Providence Saint Joseph Medical Center,Hip Fracture,1.1,1.1,As Expected
+2023,Providence Saint Joseph Medical Center,PCI,3.4,3.4,As Expected
+2023,Providence Saint Joseph Medical Center,Pancreatic Resection,0,0,As Expected
+2023,Providence Saint Joseph Medical Center,Pneumonia,6.6,6.6,As Expected
+2023,Providence Santa Rosa Memorial Hospital – Montgomery,AMI,6.1,6.1,As Expected
+2023,Providence Santa Rosa Memorial Hospital – Montgomery,Acute Stroke,9.4,9.4,As Expected
+2023,Providence Santa Rosa Memorial Hospital – Montgomery,Carotid Endarterectomy,0,0,As Expected
+2023,Providence Santa Rosa Memorial Hospital – Montgomery,GI Hemorrhage,4.2,4.2,As Expected
+2023,Providence Santa Rosa Memorial Hospital – Montgomery,Heart Failure,2.9,2.9,As Expected
+2023,Providence Santa Rosa Memorial Hospital – Montgomery,Hip Fracture,3.4,3.4,As Expected
+2023,Providence Santa Rosa Memorial Hospital – Montgomery,PCI,5.1,5.1,As Expected
+2023,Providence Santa Rosa Memorial Hospital – Montgomery,Pneumonia,4.8,4.8,As Expected
+2023,Providence St. Joseph Hospital,AMI,5.8,5.8,As Expected
+2023,Providence St. Joseph Hospital,Acute Stroke,6.4,6.4,As Expected
+2023,Providence St. Joseph Hospital,Carotid Endarterectomy,4.5,4.5,As Expected
+2023,Providence St. Joseph Hospital,GI Hemorrhage,3.7,3.7,As Expected
+2023,Providence St. Joseph Hospital,Heart Failure,2.8,2.8,As Expected
+2023,Providence St. Joseph Hospital,Hip Fracture,0.4,0.4,As Expected
+2023,Providence St. Joseph Hospital,PCI,5.5,5.5,As Expected
+2023,Providence St. Joseph Hospital,Pancreatic Resection,12.2,12.2,As Expected
+2023,Providence St. Joseph Hospital,Pneumonia,4.7,4.7,As Expected
+2023,Providence St. Joseph Hospital – Eureka,AMI,8.7,8.7,As Expected
+2023,Providence St. Joseph Hospital – Eureka,Acute Stroke,11.6,11.6,As Expected
+2023,Providence St. Joseph Hospital – Eureka,Carotid Endarterectomy,0,0,As Expected
+2023,Providence St. Joseph Hospital – Eureka,GI Hemorrhage,1.5,1.5,As Expected
+2023,Providence St. Joseph Hospital – Eureka,Hip Fracture,2.4,2.4,As Expected
+2023,Providence St. Joseph Hospital – Eureka,Pneumonia,5.4,5.4,As Expected
+2023,Providence St. Joseph Hospital – Eureka,Heart Failure,4.6,4.6,Worse
+2023,Providence St. Joseph Hospital – Eureka,PCI,8.4,8.4,Worse
+2023,Providence St. Jude Medical Center,AMI,5.2,5.2,As Expected
+2023,Providence St. Jude Medical Center,Acute Stroke,8,8,As Expected
+2023,Providence St. Jude Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Providence St. Jude Medical Center,GI Hemorrhage,2.1,2.1,As Expected
+2023,Providence St. Jude Medical Center,Heart Failure,3.1,3.1,As Expected
+2023,Providence St. Jude Medical Center,Hip Fracture,1.1,1.1,As Expected
+2023,Providence St. Jude Medical Center,PCI,4.7,4.7,As Expected
+2023,Providence St. Jude Medical Center,Pancreatic Resection,0,0,As Expected
+2023,Providence St. Jude Medical Center,Pneumonia,5.4,5.4,As Expected
+2023,Providence St. Mary Medical Center,AMI,6,6,As Expected
+2023,Providence St. Mary Medical Center,Acute Stroke,3.7,3.7,As Expected
+2023,Providence St. Mary Medical Center,GI Hemorrhage,3.4,3.4,As Expected
+2023,Providence St. Mary Medical Center,Heart Failure,1.6,1.6,As Expected
+2023,Providence St. Mary Medical Center,Hip Fracture,1.2,1.2,As Expected
+2023,Providence St. Mary Medical Center,PCI,2,2,As Expected
+2023,Providence St. Mary Medical Center,Pneumonia,3.7,3.7,Better
+2023,Providence St. Mary Medical Center,Carotid Endarterectomy,53.4,53.4,Worse
+2023,Redlands Community Hospital,AMI,3.9,3.9,As Expected
+2023,Redlands Community Hospital,Acute Stroke,10.4,10.4,As Expected
+2023,Redlands Community Hospital,Carotid Endarterectomy,1.7,1.7,As Expected
+2023,Redlands Community Hospital,GI Hemorrhage,3.3,3.3,As Expected
+2023,Redlands Community Hospital,Heart Failure,4.1,4.1,As Expected
+2023,Redlands Community Hospital,Hip Fracture,1.9,1.9,As Expected
+2023,Redlands Community Hospital,Pneumonia,4.4,4.4,Better
+2023,Regional Medical Center of San Jose,AMI,5.7,5.7,As Expected
+2023,Regional Medical Center of San Jose,Carotid Endarterectomy,0,0,As Expected
+2023,Regional Medical Center of San Jose,GI Hemorrhage,2.8,2.8,As Expected
+2023,Regional Medical Center of San Jose,Heart Failure,2.2,2.2,As Expected
+2023,Regional Medical Center of San Jose,Hip Fracture,2,2,As Expected
+2023,Regional Medical Center of San Jose,PCI,6,6,As Expected
+2023,Regional Medical Center of San Jose,Acute Stroke,3.1,3.1,Better
+2023,Regional Medical Center of San Jose,Pneumonia,3.8,3.8,Better
+2023,Rehab Hospital of Southern California,Acute Stroke,3,3,As Expected
+2023,Rehab Hospital of Southern California,Hip Fracture,0,0,As Expected
+2023,Ridgecrest Regional Hospital,Acute Stroke,17.6,17.6,As Expected
+2023,Ridgecrest Regional Hospital,GI Hemorrhage,6.8,6.8,As Expected
+2023,Ridgecrest Regional Hospital,Heart Failure,8.4,8.4,As Expected
+2023,Ridgecrest Regional Hospital,Hip Fracture,0,0,As Expected
+2023,Ridgecrest Regional Hospital,Pneumonia,7.9,7.9,As Expected
+2023,Riverside Community Hospital,AMI,4.8,4.8,As Expected
+2023,Riverside Community Hospital,GI Hemorrhage,0.5,0.5,As Expected
+2023,Riverside Community Hospital,Hip Fracture,0,0,As Expected
+2023,Riverside Community Hospital,PCI,3.7,3.7,As Expected
+2023,Riverside Community Hospital,Pancreatic Resection,0,0,As Expected
+2023,Riverside Community Hospital,Acute Stroke,3.1,3.1,Better
+2023,Riverside Community Hospital,Carotid Endarterectomy,0,0,Better
+2023,Riverside Community Hospital,Heart Failure,0.8,0.8,Better
+2023,Riverside Community Hospital,Pneumonia,2.7,2.7,Better
+2023,Riverside University Health System – Medical Center,AMI,5.3,5.3,As Expected
+2023,Riverside University Health System – Medical Center,Acute Stroke,9.3,9.3,As Expected
+2023,Riverside University Health System – Medical Center,GI Hemorrhage,3.4,3.4,As Expected
+2023,Riverside University Health System – Medical Center,Heart Failure,2.4,2.4,As Expected
+2023,Riverside University Health System – Medical Center,Hip Fracture,3.8,3.8,As Expected
+2023,Riverside University Health System – Medical Center,PCI,0,0,As Expected
+2023,Riverside University Health System – Medical Center,Pneumonia,5.6,5.6,As Expected
+2023,Riverside University Health System – Medical Center,Pancreatic Resection,43.6,43.6,Worse
+2023,Ronald Reagan UCLA Medical Center,AMI,5,5,As Expected
+2023,Ronald Reagan UCLA Medical Center,Acute Stroke,6.8,6.8,As Expected
+2023,Ronald Reagan UCLA Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Ronald Reagan UCLA Medical Center,GI Hemorrhage,1.8,1.8,As Expected
+2023,Ronald Reagan UCLA Medical Center,Heart Failure,2.9,2.9,As Expected
+2023,Ronald Reagan UCLA Medical Center,Hip Fracture,0,0,As Expected
+2023,Ronald Reagan UCLA Medical Center,PCI,3.5,3.5,As Expected
+2023,Ronald Reagan UCLA Medical Center,Pancreatic Resection,0,0,As Expected
+2023,Ronald Reagan UCLA Medical Center,Pneumonia,5.8,5.8,As Expected
+2023,Saint Agnes Medical Center,Acute Stroke,11.4,11.4,As Expected
+2023,Saint Agnes Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Saint Agnes Medical Center,GI Hemorrhage,3.8,3.8,As Expected
+2023,Saint Agnes Medical Center,Hip Fracture,2.5,2.5,As Expected
+2023,Saint Agnes Medical Center,PCI,4.1,4.1,As Expected
+2023,Saint Agnes Medical Center,Pancreatic Resection,0,0,As Expected
+2023,Saint Agnes Medical Center,AMI,8.1,8.1,Worse
+2023,Saint Agnes Medical Center,Heart Failure,4.3,4.3,Worse
+2023,Saint Agnes Medical Center,Pneumonia,11.9,11.9,Worse
+2023,Saint Francis Memorial Hospital,AMI,0,0,As Expected
+2023,Saint Francis Memorial Hospital,Acute Stroke,3.8,3.8,As Expected
+2023,Saint Francis Memorial Hospital,GI Hemorrhage,2.6,2.6,As Expected
+2023,Saint Francis Memorial Hospital,Heart Failure,1.2,1.2,As Expected
+2023,Saint Francis Memorial Hospital,Hip Fracture,3.7,3.7,As Expected
+2023,Saint Francis Memorial Hospital,Pneumonia,6.1,6.1,As Expected
+2023,Salinas Valley Health Medical Center,AMI,5.3,5.3,As Expected
+2023,Salinas Valley Health Medical Center,Acute Stroke,8.6,8.6,As Expected
+2023,Salinas Valley Health Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Salinas Valley Health Medical Center,GI Hemorrhage,4.3,4.3,As Expected
+2023,Salinas Valley Health Medical Center,Heart Failure,3.1,3.1,As Expected
+2023,Salinas Valley Health Medical Center,Hip Fracture,1.5,1.5,As Expected
+2023,Salinas Valley Health Medical Center,PCI,6.3,6.3,As Expected
+2023,Salinas Valley Health Medical Center,Pneumonia,5.4,5.4,As Expected
+2023,San Antonio Regional Hospital,AMI,6.4,6.4,As Expected
+2023,San Antonio Regional Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,San Antonio Regional Hospital,GI Hemorrhage,4.7,4.7,As Expected
+2023,San Antonio Regional Hospital,Hip Fracture,1.4,1.4,As Expected
+2023,San Antonio Regional Hospital,PCI,3.6,3.6,As Expected
+2023,San Antonio Regional Hospital,Pancreatic Resection,0,0,As Expected
+2023,San Antonio Regional Hospital,Acute Stroke,13.3,13.3,Worse
+2023,San Antonio Regional Hospital,Heart Failure,4.2,4.2,Worse
+2023,San Antonio Regional Hospital,Pneumonia,9.7,9.7,Worse
+2023,San Dimas Community Hospital,AMI,5.9,5.9,As Expected
+2023,San Dimas Community Hospital,Acute Stroke,3,3,As Expected
+2023,San Dimas Community Hospital,GI Hemorrhage,1.9,1.9,As Expected
+2023,San Dimas Community Hospital,Heart Failure,0,0,As Expected
+2023,San Dimas Community Hospital,Hip Fracture,0,0,As Expected
+2023,San Dimas Community Hospital,Pneumonia,6.7,6.7,As Expected
+2023,San Gabriel Valley Medical Center,GI Hemorrhage,2.2,2.2,As Expected
+2023,San Gabriel Valley Medical Center,Heart Failure,2.4,2.4,As Expected
+2023,San Gabriel Valley Medical Center,Hip Fracture,3.1,3.1,As Expected
+2023,San Gabriel Valley Medical Center,Pneumonia,5.3,5.3,As Expected
+2023,San Gabriel Valley Medical Center,Acute Stroke,0,0,Better
+2023,San Gabriel Valley Medical Center,AMI,18.7,18.7,Worse
+2023,San Gorgonio Memorial Hospital,AMI,0,0,As Expected
+2023,San Gorgonio Memorial Hospital,Acute Stroke,0,0,As Expected
+2023,San Gorgonio Memorial Hospital,GI Hemorrhage,5.1,5.1,As Expected
+2023,San Gorgonio Memorial Hospital,Heart Failure,4,4,As Expected
+2023,San Gorgonio Memorial Hospital,Hip Fracture,0,0,As Expected
+2023,San Gorgonio Memorial Hospital,Pneumonia,7.4,7.4,As Expected
+2023,San Joaquin General Hospital,AMI,8.4,8.4,As Expected
+2023,San Joaquin General Hospital,Acute Stroke,11.8,11.8,As Expected
+2023,San Joaquin General Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,San Joaquin General Hospital,GI Hemorrhage,2.8,2.8,As Expected
+2023,San Joaquin General Hospital,Heart Failure,2.6,2.6,As Expected
+2023,San Joaquin General Hospital,Hip Fracture,0,0,As Expected
+2023,San Joaquin General Hospital,Pancreatic Resection,0,0,As Expected
+2023,San Joaquin General Hospital,Pneumonia,4.4,4.4,As Expected
+2023,San Joaquin Valley Rehab Hospital,AMI,0,0,As Expected
+2023,San Joaquin Valley Rehab Hospital,Acute Stroke,0,0,As Expected
+2023,San Joaquin Valley Rehab Hospital,Heart Failure,0,0,As Expected
+2023,San Mateo Medical Center,AMI,27.6,27.6,As Expected
+2023,San Mateo Medical Center,Acute Stroke,12.4,12.4,As Expected
+2023,San Mateo Medical Center,GI Hemorrhage,3.6,3.6,As Expected
+2023,San Mateo Medical Center,Heart Failure,1.9,1.9,As Expected
+2023,San Mateo Medical Center,Hip Fracture,0,0,As Expected
+2023,San Mateo Medical Center,Pneumonia,8.2,8.2,As Expected
+2023,San Ramon Regional Medical Center,AMI,5.7,5.7,As Expected
+2023,San Ramon Regional Medical Center,Acute Stroke,0,0,As Expected
+2023,San Ramon Regional Medical Center,GI Hemorrhage,2.3,2.3,As Expected
+2023,San Ramon Regional Medical Center,Heart Failure,2.2,2.2,As Expected
+2023,San Ramon Regional Medical Center,Hip Fracture,0,0,As Expected
+2023,San Ramon Regional Medical Center,PCI,6.1,6.1,As Expected
+2023,San Ramon Regional Medical Center,Pneumonia,6.6,6.6,As Expected
+2023,Santa Barbara Cottage Hospital,AMI,3.8,3.8,As Expected
+2023,Santa Barbara Cottage Hospital,Acute Stroke,7,7,As Expected
+2023,Santa Barbara Cottage Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,Santa Barbara Cottage Hospital,GI Hemorrhage,2,2,As Expected
+2023,Santa Barbara Cottage Hospital,Heart Failure,2.8,2.8,As Expected
+2023,Santa Barbara Cottage Hospital,Hip Fracture,1.2,1.2,As Expected
+2023,Santa Barbara Cottage Hospital,Pancreatic Resection,0,0,As Expected
+2023,Santa Barbara Cottage Hospital,PCI,1.7,1.7,Better
+2023,Santa Barbara Cottage Hospital,Pneumonia,3.8,3.8,Better
+2023,Santa Clara Valley Medical Center,AMI,4.6,4.6,As Expected
+2023,Santa Clara Valley Medical Center,Acute Stroke,10.6,10.6,As Expected
+2023,Santa Clara Valley Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Santa Clara Valley Medical Center,Heart Failure,3,3,As Expected
+2023,Santa Clara Valley Medical Center,Hip Fracture,0,0,As Expected
+2023,Santa Clara Valley Medical Center,PCI,3.3,3.3,As Expected
+2023,Santa Clara Valley Medical Center,Pancreatic Resection,11.4,11.4,As Expected
+2023,Santa Clara Valley Medical Center,Pneumonia,6.2,6.2,As Expected
+2023,Santa Clara Valley Medical Center,GI Hemorrhage,0.4,0.4,Better
+2023,Santa Monica – UCLA Medical Center and Orthopaedic Hospital,AMI,6.7,6.7,As Expected
+2023,Santa Monica – UCLA Medical Center and Orthopaedic Hospital,Acute Stroke,6.5,6.5,As Expected
+2023,Santa Monica – UCLA Medical Center and Orthopaedic Hospital,GI Hemorrhage,2.2,2.2,As Expected
+2023,Santa Monica – UCLA Medical Center and Orthopaedic Hospital,Hip Fracture,1.7,1.7,As Expected
+2023,Santa Monica – UCLA Medical Center and Orthopaedic Hospital,PCI,5,5,As Expected
+2023,Santa Monica – UCLA Medical Center and Orthopaedic Hospital,Pneumonia,5.4,5.4,As Expected
+2023,Santa Monica – UCLA Medical Center and Orthopaedic Hospital,Heart Failure,1.3,1.3,Better
+2023,Santa Ynez Valley Cottage Hospital,Heart Failure,0,0,As Expected
+2023,Santa Ynez Valley Cottage Hospital,Pneumonia,12.6,12.6,As Expected
+2023,Scripps Green Hospital,Acute Stroke,5,5,As Expected
+2023,Scripps Green Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,Scripps Green Hospital,GI Hemorrhage,2.8,2.8,As Expected
+2023,Scripps Green Hospital,Heart Failure,2.6,2.6,As Expected
+2023,Scripps Green Hospital,Hip Fracture,1.3,1.3,As Expected
+2023,Scripps Green Hospital,Pancreatic Resection,0,0,As Expected
+2023,Scripps Green Hospital,Pneumonia,3.5,3.5,As Expected
+2023,Scripps Memorial Hospital – Encinitas,AMI,5.1,5.1,As Expected
+2023,Scripps Memorial Hospital – Encinitas,Acute Stroke,5,5,As Expected
+2023,Scripps Memorial Hospital – Encinitas,Carotid Endarterectomy,0,0,As Expected
+2023,Scripps Memorial Hospital – Encinitas,Hip Fracture,0.4,0.4,As Expected
+2023,Scripps Memorial Hospital – Encinitas,PCI,1.9,1.9,As Expected
+2023,Scripps Memorial Hospital – Encinitas,GI Hemorrhage,0,0,Better
+2023,Scripps Memorial Hospital – Encinitas,Heart Failure,1.2,1.2,Better
+2023,Scripps Memorial Hospital – Encinitas,Pneumonia,3.3,3.3,Better
+2023,Scripps Memorial Hospital – La Jolla,AMI,6,6,As Expected
+2023,Scripps Memorial Hospital – La Jolla,Acute Stroke,8.6,8.6,As Expected
+2023,Scripps Memorial Hospital – La Jolla,Carotid Endarterectomy,4.2,4.2,As Expected
+2023,Scripps Memorial Hospital – La Jolla,GI Hemorrhage,3.3,3.3,As Expected
+2023,Scripps Memorial Hospital – La Jolla,Heart Failure,2.7,2.7,As Expected
+2023,Scripps Memorial Hospital – La Jolla,Hip Fracture,1.3,1.3,As Expected
+2023,Scripps Memorial Hospital – La Jolla,PCI,5.3,5.3,As Expected
+2023,Scripps Memorial Hospital – La Jolla,Pancreatic Resection,0,0,As Expected
+2023,Scripps Memorial Hospital – La Jolla,Pneumonia,5.3,5.3,As Expected
+2023,Scripps Mercy Hospital,Acute Stroke,7.4,7.4,As Expected
+2023,Scripps Mercy Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,Scripps Mercy Hospital,GI Hemorrhage,2,2,As Expected
+2023,Scripps Mercy Hospital,Hip Fracture,1.8,1.8,As Expected
+2023,Scripps Mercy Hospital,PCI,2.3,2.3,As Expected
+2023,Scripps Mercy Hospital,Pancreatic Resection,0,0,As Expected
+2023,Scripps Mercy Hospital,Pneumonia,5.2,5.2,As Expected
+2023,Scripps Mercy Hospital,AMI,3.2,3.2,Better
+2023,Scripps Mercy Hospital,Heart Failure,1.6,1.6,Better
+2023,Seneca District Hospital,Pneumonia,0,0,As Expected
+2023,Sequoia Hospital,AMI,6.1,6.1,As Expected
+2023,Sequoia Hospital,Acute Stroke,6.2,6.2,As Expected
+2023,Sequoia Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,Sequoia Hospital,GI Hemorrhage,3,3,As Expected
+2023,Sequoia Hospital,Heart Failure,4.8,4.8,As Expected
+2023,Sequoia Hospital,Hip Fracture,0,0,As Expected
+2023,Sequoia Hospital,PCI,5.7,5.7,As Expected
+2023,Sequoia Hospital,Pneumonia,5.8,5.8,As Expected
+2023,Sharp Chula Vista Medical Center,AMI,4.3,4.3,As Expected
+2023,Sharp Chula Vista Medical Center,Acute Stroke,8.1,8.1,As Expected
+2023,Sharp Chula Vista Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Sharp Chula Vista Medical Center,GI Hemorrhage,3,3,As Expected
+2023,Sharp Chula Vista Medical Center,Heart Failure,2.9,2.9,As Expected
+2023,Sharp Chula Vista Medical Center,Hip Fracture,4.5,4.5,As Expected
+2023,Sharp Chula Vista Medical Center,Pancreatic Resection,0,0,As Expected
+2023,Sharp Chula Vista Medical Center,Pneumonia,4.6,4.6,As Expected
+2023,Sharp Chula Vista Medical Center,PCI,2,2,Better
+2023,Sharp Coronado Hospital and Healthcare Center,AMI,17.3,17.3,As Expected
+2023,Sharp Coronado Hospital and Healthcare Center,Acute Stroke,0,0,As Expected
+2023,Sharp Coronado Hospital and Healthcare Center,GI Hemorrhage,3.7,3.7,As Expected
+2023,Sharp Coronado Hospital and Healthcare Center,Heart Failure,2.9,2.9,As Expected
+2023,Sharp Coronado Hospital and Healthcare Center,Hip Fracture,0,0,As Expected
+2023,Sharp Coronado Hospital and Healthcare Center,Pneumonia,4.3,4.3,As Expected
+2023,Sharp Memorial Hospital,AMI,5,5,As Expected
+2023,Sharp Memorial Hospital,Acute Stroke,8.9,8.9,As Expected
+2023,Sharp Memorial Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,Sharp Memorial Hospital,GI Hemorrhage,2.5,2.5,As Expected
+2023,Sharp Memorial Hospital,Heart Failure,2.5,2.5,As Expected
+2023,Sharp Memorial Hospital,Hip Fracture,1.3,1.3,As Expected
+2023,Sharp Memorial Hospital,PCI,3.3,3.3,As Expected
+2023,Sharp Memorial Hospital,Pancreatic Resection,8.4,8.4,As Expected
+2023,Sharp Memorial Hospital,Pneumonia,5.6,5.6,As Expected
+2023,Shasta Regional Medical Center,AMI,6.5,6.5,As Expected
+2023,Shasta Regional Medical Center,Acute Stroke,12.3,12.3,As Expected
+2023,Shasta Regional Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Shasta Regional Medical Center,GI Hemorrhage,2.3,2.3,As Expected
+2023,Shasta Regional Medical Center,Heart Failure,2.9,2.9,As Expected
+2023,Shasta Regional Medical Center,Hip Fracture,1.1,1.1,As Expected
+2023,Shasta Regional Medical Center,PCI,3.6,3.6,As Expected
+2023,Shasta Regional Medical Center,Pneumonia,7.7,7.7,As Expected
+2023,Sherman Oaks Hospital,AMI,4.2,4.2,As Expected
+2023,Sherman Oaks Hospital,Acute Stroke,4.3,4.3,As Expected
+2023,Sherman Oaks Hospital,GI Hemorrhage,1.9,1.9,As Expected
+2023,Sherman Oaks Hospital,Heart Failure,2.1,2.1,As Expected
+2023,Sherman Oaks Hospital,Hip Fracture,0,0,As Expected
+2023,Sherman Oaks Hospital,PCI,0,0,As Expected
+2023,Sherman Oaks Hospital,Pneumonia,6.7,6.7,As Expected
+2023,Sierra Nevada Memorial Hospital,AMI,0,0,As Expected
+2023,Sierra Nevada Memorial Hospital,Acute Stroke,9.8,9.8,As Expected
+2023,Sierra Nevada Memorial Hospital,GI Hemorrhage,4.8,4.8,As Expected
+2023,Sierra Nevada Memorial Hospital,Heart Failure,2.4,2.4,As Expected
+2023,Sierra Nevada Memorial Hospital,Hip Fracture,3.6,3.6,As Expected
+2023,Sierra Nevada Memorial Hospital,Pneumonia,2.1,2.1,Better
+2023,Sierra View Medical Center,AMI,6.4,6.4,As Expected
+2023,Sierra View Medical Center,Acute Stroke,4.7,4.7,As Expected
+2023,Sierra View Medical Center,GI Hemorrhage,4.7,4.7,As Expected
+2023,Sierra View Medical Center,Heart Failure,2.9,2.9,As Expected
+2023,Sierra View Medical Center,Hip Fracture,1.6,1.6,As Expected
+2023,Sierra View Medical Center,PCI,0,0,As Expected
+2023,Sierra View Medical Center,Pneumonia,7.7,7.7,As Expected
+2023,Sonoma Specialty Hospital,Acute Stroke,0,0,As Expected
+2023,Sonoma Specialty Hospital,Pneumonia,0,0,As Expected
+2023,Sonoma Specialty Hospital,Heart Failure,64.4,64.4,Worse
+2023,Sonoma Valley Hospital,Heart Failure,0,0,As Expected
+2023,Sonoma Valley Hospital,Hip Fracture,0,0,As Expected
+2023,Sonoma Valley Hospital,Pneumonia,6,6,As Expected
+2023,Sonoma Valley Hospital,Acute Stroke,0,0,Better
+2023,South Coast Global Medical Center,AMI,0,0,As Expected
+2023,South Coast Global Medical Center,Acute Stroke,0,0,As Expected
+2023,South Coast Global Medical Center,GI Hemorrhage,16.8,16.8,As Expected
+2023,South Coast Global Medical Center,Heart Failure,8.3,8.3,As Expected
+2023,South Coast Global Medical Center,Hip Fracture,0,0,As Expected
+2023,South Coast Global Medical Center,Pneumonia,9.3,9.3,As Expected
+2023,Southern California Hospital at Culver City,AMI,5.4,5.4,As Expected
+2023,Southern California Hospital at Culver City,Acute Stroke,3.5,3.5,As Expected
+2023,Southern California Hospital at Culver City,Carotid Endarterectomy,0,0,As Expected
+2023,Southern California Hospital at Culver City,GI Hemorrhage,1.9,1.9,As Expected
+2023,Southern California Hospital at Culver City,Heart Failure,1.9,1.9,As Expected
+2023,Southern California Hospital at Culver City,Hip Fracture,0,0,As Expected
+2023,Southern California Hospital at Culver City,PCI,1.6,1.6,As Expected
+2023,Southern California Hospital at Culver City,Pneumonia,5.1,5.1,As Expected
+2023,Southern California Hospital at Hollywood,AMI,8.3,8.3,As Expected
+2023,Southern California Hospital at Hollywood,Acute Stroke,10.7,10.7,As Expected
+2023,Southern California Hospital at Hollywood,GI Hemorrhage,0.8,0.8,As Expected
+2023,Southern California Hospital at Hollywood,Heart Failure,1.8,1.8,As Expected
+2023,Southern California Hospital at Hollywood,Hip Fracture,0,0,As Expected
+2023,Southern California Hospital at Hollywood,Pneumonia,2.6,2.6,Better
+2023,Southern Inyo Hospital,Heart Failure,0,0,As Expected
+2023,Southern Inyo Hospital,Pneumonia,18.8,18.8,As Expected
+2023,Southwest Healthcare Rancho Springs Hospital,AMI,0,0,As Expected
+2023,Southwest Healthcare Rancho Springs Hospital,Acute Stroke,7.1,7.1,As Expected
+2023,Southwest Healthcare Rancho Springs Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,Southwest Healthcare Rancho Springs Hospital,GI Hemorrhage,3.7,3.7,As Expected
+2023,Southwest Healthcare Rancho Springs Hospital,Heart Failure,3,3,As Expected
+2023,Southwest Healthcare Rancho Springs Hospital,Hip Fracture,2,2,As Expected
+2023,Southwest Healthcare Rancho Springs Hospital,Pneumonia,4.4,4.4,As Expected
+2023,St. Bernardine Medical Center,AMI,6,6,As Expected
+2023,St. Bernardine Medical Center,Acute Stroke,9,9,As Expected
+2023,St. Bernardine Medical Center,GI Hemorrhage,2.3,2.3,As Expected
+2023,St. Bernardine Medical Center,Heart Failure,2.1,2.1,As Expected
+2023,St. Bernardine Medical Center,Hip Fracture,1.5,1.5,As Expected
+2023,St. Bernardine Medical Center,PCI,5.7,5.7,As Expected
+2023,St. Bernardine Medical Center,Pneumonia,5.6,5.6,As Expected
+2023,St. Elizabeth Community Hospital,AMI,0,0,As Expected
+2023,St. Elizabeth Community Hospital,Acute Stroke,0,0,As Expected
+2023,St. Elizabeth Community Hospital,GI Hemorrhage,3.4,3.4,As Expected
+2023,St. Elizabeth Community Hospital,Heart Failure,2.8,2.8,As Expected
+2023,St. Elizabeth Community Hospital,Hip Fracture,2.7,2.7,As Expected
+2023,St. Elizabeth Community Hospital,Pneumonia,10.4,10.4,As Expected
+2023,St. Francis Medical Center,AMI,4.5,4.5,As Expected
+2023,St. Francis Medical Center,Acute Stroke,6.8,6.8,As Expected
+2023,St. Francis Medical Center,GI Hemorrhage,1.5,1.5,As Expected
+2023,St. Francis Medical Center,Heart Failure,2.5,2.5,As Expected
+2023,St. Francis Medical Center,Hip Fracture,0,0,As Expected
+2023,St. Francis Medical Center,PCI,3.8,3.8,As Expected
+2023,St. Francis Medical Center,Pneumonia,5.2,5.2,As Expected
+2023,St. John's Hospital Camarillo,AMI,6.6,6.6,As Expected
+2023,St. John's Hospital Camarillo,Acute Stroke,12.4,12.4,As Expected
+2023,St. John's Hospital Camarillo,GI Hemorrhage,3,3,As Expected
+2023,St. John's Hospital Camarillo,Heart Failure,4.7,4.7,As Expected
+2023,St. John's Hospital Camarillo,Hip Fracture,0,0,As Expected
+2023,St. John's Hospital Camarillo,Pneumonia,6.9,6.9,As Expected
+2023,St. John's Regional Medical Center,AMI,3.9,3.9,As Expected
+2023,St. John's Regional Medical Center,Acute Stroke,8.4,8.4,As Expected
+2023,St. John's Regional Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,St. John's Regional Medical Center,GI Hemorrhage,2.2,2.2,As Expected
+2023,St. John's Regional Medical Center,Heart Failure,2.8,2.8,As Expected
+2023,St. John's Regional Medical Center,Hip Fracture,3.5,3.5,As Expected
+2023,St. John's Regional Medical Center,PCI,2.9,2.9,As Expected
+2023,St. John's Regional Medical Center,Pneumonia,5.9,5.9,As Expected
+2023,St. Joseph's Medical Center of Stockton,AMI,5.1,5.1,As Expected
+2023,St. Joseph's Medical Center of Stockton,Acute Stroke,6.9,6.9,As Expected
+2023,St. Joseph's Medical Center of Stockton,Carotid Endarterectomy,0,0,As Expected
+2023,St. Joseph's Medical Center of Stockton,GI Hemorrhage,2,2,As Expected
+2023,St. Joseph's Medical Center of Stockton,Heart Failure,2,2,As Expected
+2023,St. Joseph's Medical Center of Stockton,Hip Fracture,1.1,1.1,As Expected
+2023,St. Joseph's Medical Center of Stockton,Pneumonia,6.7,6.7,As Expected
+2023,St. Joseph's Medical Center of Stockton,PCI,2.3,2.3,Better
+2023,St. Louise Regional Hospital,AMI,0,0,As Expected
+2023,St. Louise Regional Hospital,Acute Stroke,0,0,As Expected
+2023,St. Louise Regional Hospital,GI Hemorrhage,1.8,1.8,As Expected
+2023,St. Louise Regional Hospital,Heart Failure,1.1,1.1,As Expected
+2023,St. Louise Regional Hospital,Hip Fracture,0,0,As Expected
+2023,St. Louise Regional Hospital,Pneumonia,5.2,5.2,As Expected
+2023,St. Mary Medical Center – Long Beach,AMI,3.3,3.3,As Expected
+2023,St. Mary Medical Center – Long Beach,Acute Stroke,6.8,6.8,As Expected
+2023,St. Mary Medical Center – Long Beach,GI Hemorrhage,2.9,2.9,As Expected
+2023,St. Mary Medical Center – Long Beach,Heart Failure,2.8,2.8,As Expected
+2023,St. Mary Medical Center – Long Beach,Hip Fracture,2.9,2.9,As Expected
+2023,St. Mary Medical Center – Long Beach,PCI,2.3,2.3,As Expected
+2023,St. Mary Medical Center – Long Beach,Pneumonia,5.5,5.5,As Expected
+2023,St. Rose Hospital,AMI,7.5,7.5,As Expected
+2023,St. Rose Hospital,Acute Stroke,11.6,11.6,As Expected
+2023,St. Rose Hospital,GI Hemorrhage,4.2,4.2,As Expected
+2023,St. Rose Hospital,Hip Fracture,0,0,As Expected
+2023,St. Rose Hospital,PCI,5.3,5.3,As Expected
+2023,St. Rose Hospital,Heart Failure,9.2,9.2,Worse
+2023,St. Rose Hospital,Pneumonia,10.8,10.8,Worse
+2023,Stanford Health Care,AMI,4.8,4.8,As Expected
+2023,Stanford Health Care,Acute Stroke,7.8,7.8,As Expected
+2023,Stanford Health Care,Carotid Endarterectomy,1.6,1.6,As Expected
+2023,Stanford Health Care,GI Hemorrhage,2.6,2.6,As Expected
+2023,Stanford Health Care,PCI,4.8,4.8,As Expected
+2023,Stanford Health Care,Pancreatic Resection,1.3,1.3,As Expected
+2023,Stanford Health Care,Heart Failure,1.6,1.6,Better
+2023,Stanford Health Care,Hip Fracture,0,0,Better
+2023,Stanford Health Care,Pneumonia,3.8,3.8,Better
+2023,Stanford Health Care Tri-Valley,AMI,6.4,6.4,As Expected
+2023,Stanford Health Care Tri-Valley,Acute Stroke,6.9,6.9,As Expected
+2023,Stanford Health Care Tri-Valley,Carotid Endarterectomy,0,0,As Expected
+2023,Stanford Health Care Tri-Valley,GI Hemorrhage,1.9,1.9,As Expected
+2023,Stanford Health Care Tri-Valley,Heart Failure,1.7,1.7,As Expected
+2023,Stanford Health Care Tri-Valley,Hip Fracture,0,0,As Expected
+2023,Stanford Health Care Tri-Valley,PCI,4.6,4.6,As Expected
+2023,Stanford Health Care Tri-Valley,Pneumonia,3.5,3.5,Better
+2023,STATEWIDE,AMI,5.5,5.5,None
+2023,STATEWIDE,Acute Stroke,8,8,None
+2023,STATEWIDE,Carotid Endarterectomy,0.8,0.8,None
+2023,STATEWIDE,GI Hemorrhage,2.8,2.8,None
+2023,STATEWIDE,Heart Failure,2.7,2.7,None
+2023,STATEWIDE,Hip Fracture,1.7,1.7,None
+2023,STATEWIDE,PCI,4,4,None
+2023,STATEWIDE,Pancreatic Resection,2.4,2.4,None
+2023,STATEWIDE,Pneumonia,6.2,6.2,None
+2023,Sutter Amador Hospital,AMI,0,0,As Expected
+2023,Sutter Amador Hospital,Acute Stroke,12.6,12.6,As Expected
+2023,Sutter Amador Hospital,GI Hemorrhage,1.8,1.8,As Expected
+2023,Sutter Amador Hospital,Heart Failure,0,0,As Expected
+2023,Sutter Amador Hospital,Hip Fracture,1.9,1.9,As Expected
+2023,Sutter Amador Hospital,Pneumonia,2.9,2.9,As Expected
+2023,Sutter Auburn Faith Hospital,AMI,3.8,3.8,As Expected
+2023,Sutter Auburn Faith Hospital,Acute Stroke,11.4,11.4,As Expected
+2023,Sutter Auburn Faith Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,Sutter Auburn Faith Hospital,GI Hemorrhage,0,0,As Expected
+2023,Sutter Auburn Faith Hospital,Heart Failure,3.7,3.7,As Expected
+2023,Sutter Auburn Faith Hospital,Hip Fracture,0,0,As Expected
+2023,Sutter Auburn Faith Hospital,Pneumonia,5.9,5.9,As Expected
+2023,Sutter Coast Hospital,AMI,0,0,As Expected
+2023,Sutter Coast Hospital,GI Hemorrhage,0,0,As Expected
+2023,Sutter Coast Hospital,Heart Failure,1.2,1.2,As Expected
+2023,Sutter Coast Hospital,Hip Fracture,2,2,As Expected
+2023,Sutter Coast Hospital,Pneumonia,6.9,6.9,As Expected
+2023,Sutter Coast Hospital,Acute Stroke,22.7,22.7,Worse
+2023,Sutter Davis Hospital,AMI,0,0,As Expected
+2023,Sutter Davis Hospital,GI Hemorrhage,1.3,1.3,As Expected
+2023,Sutter Davis Hospital,Heart Failure,1,1,As Expected
+2023,Sutter Davis Hospital,Hip Fracture,0,0,As Expected
+2023,Sutter Davis Hospital,Pneumonia,1.5,1.5,As Expected
+2023,Sutter Davis Hospital,Acute Stroke,0,0,Better
+2023,Sutter Delta Medical Center,AMI,4.9,4.9,As Expected
+2023,Sutter Delta Medical Center,Acute Stroke,5,5,As Expected
+2023,Sutter Delta Medical Center,GI Hemorrhage,2.5,2.5,As Expected
+2023,Sutter Delta Medical Center,Heart Failure,1.9,1.9,As Expected
+2023,Sutter Delta Medical Center,Hip Fracture,0,0,As Expected
+2023,Sutter Delta Medical Center,PCI,4,4,As Expected
+2023,Sutter Delta Medical Center,Pneumonia,4.7,4.7,As Expected
+2023,Sutter Lakeside Hospital,Acute Stroke,0,0,As Expected
+2023,Sutter Lakeside Hospital,GI Hemorrhage,0,0,As Expected
+2023,Sutter Lakeside Hospital,Heart Failure,3.3,3.3,As Expected
+2023,Sutter Lakeside Hospital,Hip Fracture,0,0,As Expected
+2023,Sutter Lakeside Hospital,Pneumonia,0,0,Better
+2023,Sutter Medical Center – Sacramento,AMI,5.6,5.6,As Expected
+2023,Sutter Medical Center – Sacramento,Acute Stroke,8.6,8.6,As Expected
+2023,Sutter Medical Center – Sacramento,Carotid Endarterectomy,0,0,As Expected
+2023,Sutter Medical Center – Sacramento,GI Hemorrhage,2.3,2.3,As Expected
+2023,Sutter Medical Center – Sacramento,Heart Failure,2.3,2.3,As Expected
+2023,Sutter Medical Center – Sacramento,Hip Fracture,3.7,3.7,As Expected
+2023,Sutter Medical Center – Sacramento,PCI,4.4,4.4,As Expected
+2023,Sutter Medical Center – Sacramento,Pancreatic Resection,0,0,As Expected
+2023,Sutter Medical Center – Sacramento,Pneumonia,3.8,3.8,Better
+2023,Sutter Roseville Medical Center,AMI,3.7,3.7,As Expected
+2023,Sutter Roseville Medical Center,Acute Stroke,7,7,As Expected
+2023,Sutter Roseville Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Sutter Roseville Medical Center,GI Hemorrhage,3.3,3.3,As Expected
+2023,Sutter Roseville Medical Center,Heart Failure,1.9,1.9,As Expected
+2023,Sutter Roseville Medical Center,Hip Fracture,0.8,0.8,As Expected
+2023,Sutter Roseville Medical Center,PCI,3.8,3.8,As Expected
+2023,Sutter Roseville Medical Center,Pneumonia,5.1,5.1,As Expected
+2023,Sutter Santa Rosa Regional Hospital,AMI,3.4,3.4,As Expected
+2023,Sutter Santa Rosa Regional Hospital,Acute Stroke,9.2,9.2,As Expected
+2023,Sutter Santa Rosa Regional Hospital,GI Hemorrhage,1.9,1.9,As Expected
+2023,Sutter Santa Rosa Regional Hospital,Heart Failure,1.8,1.8,As Expected
+2023,Sutter Santa Rosa Regional Hospital,Hip Fracture,0,0,As Expected
+2023,Sutter Santa Rosa Regional Hospital,PCI,1.7,1.7,As Expected
+2023,Sutter Santa Rosa Regional Hospital,Pneumonia,6.2,6.2,As Expected
+2023,Sutter Solano Medical Center,AMI,0,0,As Expected
+2023,Sutter Solano Medical Center,Acute Stroke,9.5,9.5,As Expected
+2023,Sutter Solano Medical Center,GI Hemorrhage,0,0,As Expected
+2023,Sutter Solano Medical Center,Heart Failure,0.6,0.6,As Expected
+2023,Sutter Solano Medical Center,Hip Fracture,0,0,As Expected
+2023,Sutter Solano Medical Center,Pneumonia,4.3,4.3,As Expected
+2023,Sutter Tracy Community Hospital,AMI,0,0,As Expected
+2023,Sutter Tracy Community Hospital,Acute Stroke,6.2,6.2,As Expected
+2023,Sutter Tracy Community Hospital,GI Hemorrhage,0,0,As Expected
+2023,Sutter Tracy Community Hospital,Heart Failure,3,3,As Expected
+2023,Sutter Tracy Community Hospital,Hip Fracture,0,0,As Expected
+2023,Sutter Tracy Community Hospital,Pneumonia,5.9,5.9,As Expected
+2023,Tahoe Forest Hospital,GI Hemorrhage,0,0,As Expected
+2023,Tahoe Forest Hospital,Heart Failure,0,0,As Expected
+2023,Tahoe Forest Hospital,Hip Fracture,4.5,4.5,As Expected
+2023,Tahoe Forest Hospital,Pneumonia,5.9,5.9,As Expected
+2023,Temecula Valley Hospital,Acute Stroke,7.7,7.7,As Expected
+2023,Temecula Valley Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,Temecula Valley Hospital,GI Hemorrhage,2.7,2.7,As Expected
+2023,Temecula Valley Hospital,Heart Failure,3.4,3.4,As Expected
+2023,Temecula Valley Hospital,Hip Fracture,0.9,0.9,As Expected
+2023,Temecula Valley Hospital,Pneumonia,6.6,6.6,As Expected
+2023,Temecula Valley Hospital,AMI,7.5,7.5,Worse
+2023,Temecula Valley Hospital,PCI,6.1,6.1,Worse
+2023,Torrance Memorial Medical Center,AMI,4.5,4.5,As Expected
+2023,Torrance Memorial Medical Center,Acute Stroke,9.8,9.8,As Expected
+2023,Torrance Memorial Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Torrance Memorial Medical Center,GI Hemorrhage,2.6,2.6,As Expected
+2023,Torrance Memorial Medical Center,Heart Failure,2,2,As Expected
+2023,Torrance Memorial Medical Center,Hip Fracture,2,2,As Expected
+2023,Torrance Memorial Medical Center,PCI,2.5,2.5,As Expected
+2023,Torrance Memorial Medical Center,Pancreatic Resection,4.6,4.6,As Expected
+2023,Torrance Memorial Medical Center,Pneumonia,6.7,6.7,As Expected
+2023,Tri-City Medical Center,AMI,7.6,7.6,As Expected
+2023,Tri-City Medical Center,Acute Stroke,11,11,As Expected
+2023,Tri-City Medical Center,Carotid Endarterectomy,7.4,7.4,As Expected
+2023,Tri-City Medical Center,GI Hemorrhage,3.7,3.7,As Expected
+2023,Tri-City Medical Center,Heart Failure,3.5,3.5,As Expected
+2023,Tri-City Medical Center,Hip Fracture,3,3,As Expected
+2023,Tri-City Medical Center,PCI,1.6,1.6,As Expected
+2023,Tri-City Medical Center,Pneumonia,9.4,9.4,Worse
+2023,Trinity Hospital,Acute Stroke,0,0,As Expected
+2023,Trinity Hospital,Heart Failure,13.5,13.5,As Expected
+2023,Trinity Hospital,Pneumonia,19.8,19.8,As Expected
+2023,UC Davis Medical Center,AMI,3.1,3.1,As Expected
+2023,UC Davis Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,UC Davis Medical Center,GI Hemorrhage,1.8,1.8,As Expected
+2023,UC Davis Medical Center,Heart Failure,1.9,1.9,As Expected
+2023,UC Davis Medical Center,Hip Fracture,1,1,As Expected
+2023,UC Davis Medical Center,PCI,2.8,2.8,As Expected
+2023,UC Davis Medical Center,Pancreatic Resection,6.9,6.9,As Expected
+2023,UC Davis Medical Center,Acute Stroke,4.4,4.4,Better
+2023,UC Davis Medical Center,Pneumonia,4,4,Better
+2023,UC Irvine Health – Fountain Valley,AMI,6.6,6.6,As Expected
+2023,UC Irvine Health – Fountain Valley,Acute Stroke,8.2,8.2,As Expected
+2023,UC Irvine Health – Fountain Valley,GI Hemorrhage,4.7,4.7,As Expected
+2023,UC Irvine Health – Fountain Valley,Hip Fracture,1,1,As Expected
+2023,UC Irvine Health – Fountain Valley,PCI,1.8,1.8,As Expected
+2023,UC Irvine Health – Fountain Valley,Pancreatic Resection,7.1,7.1,As Expected
+2023,UC Irvine Health – Fountain Valley,Pneumonia,6.2,6.2,As Expected
+2023,UC Irvine Health – Fountain Valley,Heart Failure,4.2,4.2,Worse
+2023,UC Irvine Health – Lakewood,AMI,6.5,6.5,As Expected
+2023,UC Irvine Health – Lakewood,Acute Stroke,8.2,8.2,As Expected
+2023,UC Irvine Health – Lakewood,Carotid Endarterectomy,0,0,As Expected
+2023,UC Irvine Health – Lakewood,GI Hemorrhage,1.6,1.6,As Expected
+2023,UC Irvine Health – Lakewood,Heart Failure,2.6,2.6,As Expected
+2023,UC Irvine Health – Lakewood,Hip Fracture,1.8,1.8,As Expected
+2023,UC Irvine Health – Lakewood,PCI,3.3,3.3,As Expected
+2023,UC Irvine Health – Lakewood,Pneumonia,6.1,6.1,As Expected
+2023,UC Irvine Health – Los Alamitos,Acute Stroke,9.2,9.2,As Expected
+2023,UC Irvine Health – Los Alamitos,Carotid Endarterectomy,0,0,As Expected
+2023,UC Irvine Health – Los Alamitos,GI Hemorrhage,3.8,3.8,As Expected
+2023,UC Irvine Health – Los Alamitos,Heart Failure,2,2,As Expected
+2023,UC Irvine Health – Los Alamitos,Hip Fracture,2.6,2.6,As Expected
+2023,UC Irvine Health – Los Alamitos,PCI,6,6,As Expected
+2023,UC Irvine Health – Los Alamitos,Pneumonia,6.1,6.1,As Expected
+2023,UC Irvine Health – Los Alamitos,AMI,10.2,10.2,Worse
+2023,UC Irvine Health – Placentia Linda,AMI,5.3,5.3,As Expected
+2023,UC Irvine Health – Placentia Linda,Acute Stroke,8.1,8.1,As Expected
+2023,UC Irvine Health – Placentia Linda,GI Hemorrhage,4.6,4.6,As Expected
+2023,UC Irvine Health – Placentia Linda,Heart Failure,2.4,2.4,As Expected
+2023,UC Irvine Health – Placentia Linda,Hip Fracture,1.9,1.9,As Expected
+2023,UC Irvine Health – Placentia Linda,PCI,5.2,5.2,As Expected
+2023,UC Irvine Health – Placentia Linda,Pneumonia,6.8,6.8,As Expected
+2023,UC Irvine Medical Center,AMI,5,5,As Expected
+2023,UC Irvine Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,UC Irvine Medical Center,Heart Failure,2.2,2.2,As Expected
+2023,UC Irvine Medical Center,Hip Fracture,2.8,2.8,As Expected
+2023,UC Irvine Medical Center,PCI,3.8,3.8,As Expected
+2023,UC Irvine Medical Center,Pancreatic Resection,4,4,As Expected
+2023,UC Irvine Medical Center,Pneumonia,4.6,4.6,As Expected
+2023,UC Irvine Medical Center,Acute Stroke,3.2,3.2,Better
+2023,UC Irvine Medical Center,GI Hemorrhage,0.6,0.6,Better
+2023,UC San Diego Health – East Campus Medical Center,AMI,9.1,9.1,As Expected
+2023,UC San Diego Health – East Campus Medical Center,Acute Stroke,4.9,4.9,As Expected
+2023,UC San Diego Health – East Campus Medical Center,Heart Failure,0.9,0.9,As Expected
+2023,UC San Diego Health – East Campus Medical Center,Hip Fracture,0,0,As Expected
+2023,UC San Diego Health – East Campus Medical Center,PCI,6.5,6.5,As Expected
+2023,UC San Diego Health – East Campus Medical Center,GI Hemorrhage,7,7,Worse
+2023,UC San Diego Health – East Campus Medical Center,Pneumonia,9.8,9.8,Worse
+2023,UC San Diego Health Hillcrest – Hillcrest Medical Center,AMI,4.2,4.2,As Expected
+2023,UC San Diego Health Hillcrest – Hillcrest Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,UC San Diego Health Hillcrest – Hillcrest Medical Center,Hip Fracture,1.7,1.7,As Expected
+2023,UC San Diego Health Hillcrest – Hillcrest Medical Center,PCI,3.5,3.5,As Expected
+2023,UC San Diego Health Hillcrest – Hillcrest Medical Center,Pancreatic Resection,0,0,As Expected
+2023,UC San Diego Health Hillcrest – Hillcrest Medical Center,Acute Stroke,4.2,4.2,Better
+2023,UC San Diego Health Hillcrest – Hillcrest Medical Center,GI Hemorrhage,1.1,1.1,Better
+2023,UC San Diego Health Hillcrest – Hillcrest Medical Center,Heart Failure,1.7,1.7,Better
+2023,UC San Diego Health Hillcrest – Hillcrest Medical Center,Pneumonia,3.3,3.3,Better
+2023,UC San Francisco Health – St. Mary's Hospital,AMI,4.4,4.4,As Expected
+2023,UC San Francisco Health – St. Mary's Hospital,Acute Stroke,7.1,7.1,As Expected
+2023,UC San Francisco Health – St. Mary's Hospital,Carotid Endarterectomy,0,0,As Expected
+2023,UC San Francisco Health – St. Mary's Hospital,GI Hemorrhage,2.7,2.7,As Expected
+2023,UC San Francisco Health – St. Mary's Hospital,Hip Fracture,2.4,2.4,As Expected
+2023,UC San Francisco Health – St. Mary's Hospital,PCI,2.8,2.8,As Expected
+2023,UC San Francisco Health – St. Mary's Hospital,Pneumonia,3.4,3.4,As Expected
+2023,UC San Francisco Health – St. Mary's Hospital,Heart Failure,1.2,1.2,Better
+2023,UC San Francisco Medical Center,AMI,4.4,4.4,As Expected
+2023,UC San Francisco Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,UC San Francisco Medical Center,GI Hemorrhage,1.8,1.8,As Expected
+2023,UC San Francisco Medical Center,Hip Fracture,0.8,0.8,As Expected
+2023,UC San Francisco Medical Center,PCI,3.2,3.2,As Expected
+2023,UC San Francisco Medical Center,Pancreatic Resection,1.3,1.3,As Expected
+2023,UC San Francisco Medical Center,Acute Stroke,5.6,5.6,Better
+2023,UC San Francisco Medical Center,Heart Failure,1.6,1.6,Better
+2023,UC San Francisco Medical Center,Pneumonia,4.5,4.5,Better
+2023,UCLA West Valley Medical Center,AMI,6,6,As Expected
+2023,UCLA West Valley Medical Center,GI Hemorrhage,3.2,3.2,As Expected
+2023,UCLA West Valley Medical Center,Heart Failure,2.9,2.9,As Expected
+2023,UCLA West Valley Medical Center,Hip Fracture,1.9,1.9,As Expected
+2023,UCLA West Valley Medical Center,PCI,4.8,4.8,As Expected
+2023,UCLA West Valley Medical Center,Acute Stroke,3.9,3.9,Better
+2023,UCLA West Valley Medical Center,Pneumonia,3.8,3.8,Better
+2023,USC Arcadia Hospital,AMI,7.3,7.3,As Expected
+2023,USC Arcadia Hospital,Acute Stroke,9.5,9.5,As Expected
+2023,USC Arcadia Hospital,Carotid Endarterectomy,7.2,7.2,As Expected
+2023,USC Arcadia Hospital,GI Hemorrhage,3.3,3.3,As Expected
+2023,USC Arcadia Hospital,Heart Failure,2.6,2.6,As Expected
+2023,USC Arcadia Hospital,Hip Fracture,2.6,2.6,As Expected
+2023,USC Arcadia Hospital,PCI,7.2,7.2,As Expected
+2023,USC Arcadia Hospital,Pancreatic Resection,0,0,As Expected
+2023,USC Arcadia Hospital,Pneumonia,8.7,8.7,Worse
+2023,USC Verdugo Hills Hospital,AMI,0,0,As Expected
+2023,USC Verdugo Hills Hospital,Acute Stroke,4.5,4.5,As Expected
+2023,USC Verdugo Hills Hospital,GI Hemorrhage,0.9,0.9,As Expected
+2023,USC Verdugo Hills Hospital,Heart Failure,2.8,2.8,As Expected
+2023,USC Verdugo Hills Hospital,Hip Fracture,0,0,As Expected
+2023,USC Verdugo Hills Hospital,Pneumonia,2.4,2.4,Better
+2023,Valley Presbyterian Hospital,Acute Stroke,6.2,6.2,As Expected
+2023,Valley Presbyterian Hospital,GI Hemorrhage,1.6,1.6,As Expected
+2023,Valley Presbyterian Hospital,Heart Failure,3.4,3.4,As Expected
+2023,Valley Presbyterian Hospital,Hip Fracture,2.4,2.4,As Expected
+2023,Valley Presbyterian Hospital,PCI,7.7,7.7,As Expected
+2023,Valley Presbyterian Hospital,Pancreatic Resection,0,0,As Expected
+2023,Valley Presbyterian Hospital,AMI,10.2,10.2,Worse
+2023,Valley Presbyterian Hospital,Pneumonia,8.5,8.5,Worse
+2023,Ventura County Medical Center,AMI,0,0,As Expected
+2023,Ventura County Medical Center,Acute Stroke,10.4,10.4,As Expected
+2023,Ventura County Medical Center,GI Hemorrhage,1.7,1.7,As Expected
+2023,Ventura County Medical Center,Heart Failure,3.2,3.2,As Expected
+2023,Ventura County Medical Center,Hip Fracture,0,0,As Expected
+2023,Ventura County Medical Center,Pancreatic Resection,0,0,As Expected
+2023,Ventura County Medical Center,Pneumonia,8.5,8.5,As Expected
+2023,Victor Valley Global Medical Center,AMI,0,0,As Expected
+2023,Victor Valley Global Medical Center,Acute Stroke,7.3,7.3,As Expected
+2023,Victor Valley Global Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,Victor Valley Global Medical Center,GI Hemorrhage,3,3,As Expected
+2023,Victor Valley Global Medical Center,Heart Failure,1.9,1.9,As Expected
+2023,Victor Valley Global Medical Center,Hip Fracture,0,0,As Expected
+2023,Victor Valley Global Medical Center,Pneumonia,5.9,5.9,As Expected
+2023,Washington Hospital – Fremont,AMI,6,6,As Expected
+2023,Washington Hospital – Fremont,Acute Stroke,9.7,9.7,As Expected
+2023,Washington Hospital – Fremont,Carotid Endarterectomy,0,0,As Expected
+2023,Washington Hospital – Fremont,GI Hemorrhage,2.3,2.3,As Expected
+2023,Washington Hospital – Fremont,Heart Failure,2.3,2.3,As Expected
+2023,Washington Hospital – Fremont,Hip Fracture,1.8,1.8,As Expected
+2023,Washington Hospital – Fremont,PCI,6.4,6.4,As Expected
+2023,Washington Hospital – Fremont,Pneumonia,9,9,Worse
+2023,Watsonville Community Hospital,Acute Stroke,3.6,3.6,As Expected
+2023,Watsonville Community Hospital,GI Hemorrhage,0,0,As Expected
+2023,Watsonville Community Hospital,Heart Failure,1.2,1.2,As Expected
+2023,Watsonville Community Hospital,Hip Fracture,2.1,2.1,As Expected
+2023,Watsonville Community Hospital,Pneumonia,5.5,5.5,As Expected
+2023,West Anaheim Medical Center,AMI,6.2,6.2,As Expected
+2023,West Anaheim Medical Center,Acute Stroke,10.5,10.5,As Expected
+2023,West Anaheim Medical Center,Carotid Endarterectomy,0,0,As Expected
+2023,West Anaheim Medical Center,GI Hemorrhage,3.4,3.4,As Expected
+2023,West Anaheim Medical Center,Heart Failure,2.7,2.7,As Expected
+2023,West Anaheim Medical Center,Hip Fracture,1.6,1.6,As Expected
+2023,West Anaheim Medical Center,PCI,4.5,4.5,As Expected
+2023,West Anaheim Medical Center,Pneumonia,5.6,5.6,As Expected
+2023,Whittier Hospital Medical Center,AMI,9.7,9.7,As Expected
+2023,Whittier Hospital Medical Center,Acute Stroke,2.9,2.9,As Expected
+2023,Whittier Hospital Medical Center,GI Hemorrhage,3.5,3.5,As Expected
+2023,Whittier Hospital Medical Center,Heart Failure,5.1,5.1,As Expected
+2023,Whittier Hospital Medical Center,Hip Fracture,0,0,As Expected
+2023,Whittier Hospital Medical Center,Pneumonia,7.9,7.9,As Expected
+2023,Woodland Memorial Hospital,Acute Stroke,6.9,6.9,As Expected
+2023,Woodland Memorial Hospital,GI Hemorrhage,1.4,1.4,As Expected
+2023,Woodland Memorial Hospital,Heart Failure,2.9,2.9,As Expected
+2023,Woodland Memorial Hospital,Hip Fracture,2.8,2.8,As Expected
+2023,Woodland Memorial Hospital,Pneumonia,4.7,4.7,As Expected
+2023,Woodland Memorial Hospital,AMI,18.2,18.2,Worse
