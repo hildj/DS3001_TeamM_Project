@@ -7,7 +7,7 @@ This repository contains the data, code, and paper components for our group’s 
 
 ## Project Overview
 
-In this project, we analyzed hospital mortality data from 2016–2023, which we cleaned to just 2023 data and implemented multiple models—including Linear Regression, Decision Trees, K-Nearest Neighbors (KNN), and a Neural Network—to see which approaches most effectively predict mortality outcomes. We also documented our methodology, initial analyses, and final findings through several written components that accompany the code.
+In this project, we analyzed hospital mortality data from 2016–2023, which we cleaned to just 2023 data and implemented multiple models including Linear Regression, Decision Trees, K-Nearest Neighbors (KNN), and a Neural Network to see which approaches most effectively predict mortality outcomes. We also documented our methodology, initial analyses, and final findings through several written components that accompany the code.
 
 ---
 
