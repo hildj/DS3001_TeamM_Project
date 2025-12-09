@@ -56,4 +56,4 @@ This file contains the final processed variables used across all modeling notebo
 
 If you'd like to run the notebooks, use: 
 
-git clone https://github.com/<your-username>/<repo-name>.git
+! git clone https://github.com/hildj/DS3001_TeamM_Project
