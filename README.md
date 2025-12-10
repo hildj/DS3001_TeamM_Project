@@ -19,10 +19,16 @@ The repository is organized into three main folders to keep everything clean and
 This folder contains all raw and cleaned datasets, along with documentation.
 - `2016-2023-imi-results-long-view.csv` – Long-view IMI results dataset (2016–2023)  
 - `hospital data cleaned.csv` – Cleaned dataset used for modeling
+- `METADATA.md` - Documentation for the dataset
+- `EDA 1.png` - A exploratory plot for the metadata, about Risk Adjusted Mortality Rate by Hospital Rating
+- `EDA 2.png` - A exploratory plot for the metadata, about the Frequency of Medical Conditions
+- `EDA 3.png` - A exploratory plot for the metadata, about the Risk Adjusted Mortality Rate by Condition
+
 
 ### SCRIPTS
 All Jupyter notebooks related to modeling and analysis.
 
+- `EDA.ipynb` – Exploratory data anaylsis for the dataset  
 - `KNNresultsmilestone.ipynb` – KNN regression model and milestone results  
 - `linearregression.ipynb` – Linear regression modeling and interpretation  
 - `trees.ipynb` – Decision tree modeling  
